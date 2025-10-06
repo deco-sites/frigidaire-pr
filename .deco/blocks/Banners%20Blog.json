@@ -1,0 +1,23 @@
+{
+  "__resolveType": "elux-components-app/sections/Images/BannersMatcher.tsx",
+  "banners": [
+    {
+      "image": {
+        "desktop": "https://data.decoassets.com/frigidaire-us/a8d13898-4953-4d17-8a4d-58cfeb98b98d/c719814ea8efca75122dd13f51f64f3b.png",
+        "mobile": "https://data.decoassets.com/frigidaire-us/a8d13898-4953-4d17-8a4d-58cfeb98b98d/c719814ea8efca75122dd13f51f64f3b.png"
+      },
+      "matcher": "/*",
+      "description": "Blog Frigidaire",
+      "disabledOpacity": true
+    },
+    {
+      "image": {
+        "desktop": "https://data.decoassets.com/frigidaire-us/cc268c06-cb92-49e4-bb26-e9eeb3ecaabd/11fdc835db785163edbb21da663efceb.png",
+        "mobile": "https://data.decoassets.com/frigidaire-us/cc268c06-cb92-49e4-bb26-e9eeb3ecaabd/11fdc835db785163edbb21da663efceb.png"
+      },
+      "matcher": "/blog/post-category",
+      "description": "Blog Frigidaire",
+      "disabledOpacity": true
+    }
+  ]
+}

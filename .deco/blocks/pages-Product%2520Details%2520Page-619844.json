@@ -1,0 +1,143 @@
+{
+  "name": "Product Details Page",
+  "path": "/:slug/p",
+  "sections": [
+    {
+      "__resolveType": "Header"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "elux-components-app/sections/Product/ProductDetails/ProductBreadcrumb.tsx",
+        "page": {
+          "__resolveType": "PDP Loader"
+        },
+        "breadcrumbProps": {
+          "icon": "home-frigidaire",
+          "fontSize": "text-xs",
+          "iconColor": "primary",
+          "breadcrumbColor": "accent",
+          "fontWeight": "font-light",
+          "gap": "2",
+          "maxItems": 2
+        },
+        "spacing": {
+          "desktop": {
+            "top": {
+              "behavior": "split",
+              "size": "extra-small"
+            },
+            "bottom": {
+              "behavior": "split",
+              "size": "extra-small"
+            }
+          },
+          "mobile": {
+            "top": {
+              "behavior": "split",
+              "size": "extra-small"
+            },
+            "bottom": {
+              "behavior": "split",
+              "size": "small"
+            }
+          }
+        }
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "elux-components-app/sections/Product/ProductDetails/ProductPage.tsx",
+        "page": {
+          "__resolveType": "PDP Loader"
+        },
+        "breadcrumbProps": {
+          "icon": "home-frigidaire",
+          "fontSize": "text-xs",
+          "iconColor": "primary",
+          "breadcrumbColor": "secondary-content",
+          "fontWeight": "font-light",
+          "maxItems": 2,
+          "iconSize": 16,
+          "fontColor": "secondary",
+          "hideProductName": false,
+          "disableContainer": false
+        },
+        "spacing": {
+          "mobile": {
+            "bottom": {}
+          }
+        },
+        "productMain": {
+          "buyButton": {
+            "background": "#EE405A",
+            "textColor": "#FFFFFF",
+            "isDisable": false,
+            "redirectTo": "/donde-comprar",
+            "rounded": "3xl",
+            "isDisabled": false
+          },
+          "mergeQuantity": 2,
+          "tabs": {
+            "enabledTab": {
+              "fontColor": "primary",
+              "fontSize": "text-base",
+              "fontWeight": "font-semibold",
+              "underlineColor": "primary"
+            }
+          }
+        },
+        "bannersProps": [
+          {
+            "bgColor": "white",
+            "titleColor": "primary",
+            "descriptionColor": "secondary"
+          },
+          {
+            "bgColor": "primary",
+            "titleColor": "white",
+            "descriptionColor": "white"
+          }
+        ],
+        "seo": {
+          "jsonLD": {
+            "__resolveType": "PDP Loader"
+          },
+          "title": "%s | Galería Frigidaire"
+        }
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "PDP Banners"
+      }
+    },
+    {
+      "__resolveType": "website/flags/multivariate/section.ts",
+      "variants": [
+        {
+          "value": {
+            "__resolveType": "Footer mobile"
+          },
+          "rule": {
+            "__resolveType": "Mobile"
+          }
+        },
+        {
+          "value": {
+            "__resolveType": "Footer"
+          },
+          "rule": {
+            "__resolveType": "website/matchers/always.ts"
+          }
+        }
+      ]
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

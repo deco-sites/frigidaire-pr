@@ -1,0 +1,288 @@
+{
+  "name": "Blog",
+  "path": "/blog",
+  "sections": {
+    "__resolveType": "website/flags/multivariate.ts",
+    "variants": [
+      {
+        "value": [
+          {
+            "__resolveType": "website/sections/Seo/SeoV2.tsx",
+            "titleTemplate": "Blog Frigidaire"
+          },
+          {
+            "__resolveType": "Header"
+          },
+          {
+            "__resolveType": "elux-components-app/sections/Content/Breadcrumb.tsx",
+            "spacing": {
+              "desktop": {
+                "top": {
+                  "behavior": "split",
+                  "size": "small"
+                },
+                "bottom": {
+                  "behavior": "split",
+                  "size": "small"
+                }
+              },
+              "mobile": {
+                "top": {
+                  "behavior": "split",
+                  "size": "small"
+                },
+                "bottom": {
+                  "behavior": "split",
+                  "size": "small"
+                }
+              }
+            },
+            "icon": "home-frigidaire",
+            "iconSize": 16,
+            "fontColor": "primary",
+            "fontSize": "text-xs",
+            "items": [
+              {
+                "label": "Blog Frigidaire"
+              }
+            ]
+          },
+          {
+            "__resolveType": "Banners Blog"
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "Blog Search Controls"
+            }
+          },
+          {
+            "__resolveType": "elux-components-app/sections/blog/BlogListing.tsx",
+            "page": {
+              "__resolveType": "blog/loaders/BlogpostListing.ts",
+              "count": 3,
+              "sortBy": "title_desc"
+            },
+            "spacing": {
+              "desktop": {
+                "top": {
+                  "behavior": "split",
+                  "size": "none"
+                },
+                "bottom": {
+                  "behavior": "split",
+                  "size": "medium"
+                }
+              },
+              "mobile": {
+                "top": {
+                  "behavior": "split",
+                  "size": "none"
+                },
+                "bottom": {
+                  "behavior": "split",
+                  "size": "extra-large"
+                }
+              }
+            },
+            "layout": {
+              "pagination": "show-more",
+              "showResultsQuantity": true,
+              "cardSize": "medium"
+            },
+            "startingPage": 1
+          },
+          {
+            "__resolveType": "website/flags/multivariate/section.ts",
+            "variants": [
+              {
+                "value": {
+                  "__resolveType": "Footer mobile"
+                },
+                "rule": {
+                  "__resolveType": "Mobile"
+                }
+              },
+              {
+                "value": {
+                  "__resolveType": "Footer"
+                },
+                "rule": {
+                  "__resolveType": "website/matchers/always.ts"
+                }
+              }
+            ]
+          }
+        ],
+        "rule": {
+          "__resolveType": "website/matchers/queryString.ts",
+          "conditions": [
+            {
+              "case": {
+                "type": "Exists"
+              },
+              "param": "q"
+            }
+          ]
+        }
+      },
+      {
+        "value": [
+          {
+            "__resolveType": "website/sections/Seo/SeoV2.tsx",
+            "titleTemplate": "Blog Frigidaire"
+          },
+          {
+            "__resolveType": "Header"
+          },
+          {
+            "__resolveType": "elux-components-app/sections/Content/Breadcrumb.tsx",
+            "spacing": {
+              "desktop": {
+                "top": {
+                  "behavior": "split",
+                  "size": "small"
+                },
+                "bottom": {
+                  "behavior": "split",
+                  "size": "small"
+                }
+              },
+              "mobile": {
+                "top": {
+                  "behavior": "split",
+                  "size": "small"
+                },
+                "bottom": {
+                  "behavior": "split",
+                  "size": "small"
+                }
+              }
+            },
+            "icon": "home-frigidaire",
+            "iconSize": 16,
+            "fontColor": "primary",
+            "fontSize": "text-xs",
+            "items": [
+              {
+                "label": "Blog Frigidaire"
+              }
+            ]
+          },
+          {
+            "__resolveType": "Banners Blog"
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "Blog Search Controls"
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "elux-components-app/sections/blog/BlogShelf.tsx",
+              "title": "Últimas publicaciones",
+              "blogposts": {
+                "__resolveType": "blog/loaders/BlogpostList.ts",
+                "count": 2,
+                "page": 1,
+                "postSlugs": [],
+                "sortBy": "date_desc"
+              },
+              "gridOption": "2",
+              "shelfSize": "large",
+              "spacing": {
+                "desktop": {
+                  "top": {
+                    "behavior": "split",
+                    "size": "medium"
+                  },
+                  "bottom": {
+                    "behavior": "split",
+                    "size": "medium"
+                  }
+                },
+                "mobile": {
+                  "top": {
+                    "behavior": "split",
+                    "size": "large"
+                  },
+                  "bottom": {
+                    "behavior": "split",
+                    "size": "extra-large"
+                  }
+                }
+              }
+            }
+          },
+          {
+            "__resolveType": "elux-components-app/sections/blog/BlogListing.tsx",
+            "page": {
+              "__resolveType": "blog/loaders/BlogpostListing.ts",
+              "count": 3,
+              "sortBy": "title_desc"
+            },
+            "spacing": {
+              "desktop": {
+                "top": {
+                  "behavior": "split",
+                  "size": "medium"
+                },
+                "bottom": {
+                  "behavior": "split",
+                  "size": "medium"
+                }
+              },
+              "mobile": {
+                "top": {
+                  "behavior": "split",
+                  "size": "large"
+                },
+                "bottom": {
+                  "behavior": "split",
+                  "size": "extra-large"
+                }
+              }
+            },
+            "layout": {
+              "pagination": "show-more",
+              "showResultsQuantity": false,
+              "cardSize": "medium"
+            },
+            "startingPage": 1,
+            "title": "Mira más contenido"
+          },
+          {
+            "__resolveType": "website/flags/multivariate/section.ts",
+            "variants": [
+              {
+                "value": {
+                  "__resolveType": "Footer mobile"
+                },
+                "rule": {
+                  "__resolveType": "Mobile"
+                }
+              },
+              {
+                "value": {
+                  "__resolveType": "Footer"
+                },
+                "rule": {
+                  "__resolveType": "website/matchers/always.ts"
+                }
+              }
+            ]
+          }
+        ],
+        "rule": {
+          "__resolveType": "website/matchers/always.ts"
+        }
+      }
+    ]
+  },
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

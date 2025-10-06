@@ -1,0 +1,65 @@
+{
+  "__resolveType": "elux-components-app/actions/product/createProduct.ts",
+  "product": {
+    "brand": "frigidaire---Frigidaire",
+    "description": "<p>El protector digital de voltaje Frigidaire FVP06 está diseñado especialmente para cuidar tus electrodomésticos que operan a 220 V, como aires acondicionados, refrigeradores de gran capacidad, lavadoras, congeladores y más. Su sistema inteligente de monitoreo interrumpe el suministro eléctrico ante variaciones peligrosas de tensión, protegiendo tus equipos contra daños costosos.<br></p><p>Incluye un tiempo de espera automático de 180 segundos para evitar arranques bruscos tras cortes eléctricos, extendiendo así la vida útil de tus electrodomésticos.</p><p><br><br></p><p>\t•\tProtección confiable contra picos de tensión y bajones de voltaje.</p><p>\t•\tIdeal para electrodomésticos que funcionan con 220 V.</p><p>\t•\tRetardo de reconexión para mayor seguridad del equipo.</p><p>\t•\tFácil de instalar, compacto y duradero.<br><br></p><p>Características técnicas:</p><p>\t•\tVoltaje nominal: 220 V~</p><p>\t•\tFrecuencia: 50/60 Hz</p><p>\t•\tCapacidad máxima de carga: 20 A</p><p>\t•\tProtección contra sobrevoltaje: 240–270 V~</p><p>\t•\tProtección contra bajo voltaje: 130–180 V~</p><p>\t•\tTiempo de espera (reconexión): 180 segundos\"</p>",
+    "productID": "7909569463383",
+    "url": "voltage-protector-220v-20a-fvp06-digital",
+    "sku": "41051109",
+    "name": "Voltage Protector 220v / 20A - FVP06 Digital"
+  },
+  "measurements": {
+    "height": {
+      "maxValue": 2,
+      "unitCode": "mm",
+      "minValue": 1
+    },
+    "width": {
+      "unitCode": "mm",
+      "maxValue": 2,
+      "minValue": 1
+    },
+    "depth": {
+      "maxValue": 2,
+      "unitCode": "mm",
+      "minValue": 1
+    },
+    "weight": {
+      "minValue": 1,
+      "maxValue": 2,
+      "unitCode": "g"
+    }
+  },
+  "categories": [
+    {
+      "subjectOf": "accesorios---Accesorios---3"
+    }
+  ],
+  "additionalProperties": [
+    {
+      "name": "EAN",
+      "value": "7909569463383",
+      "alternateName": "EAN"
+    }
+  ],
+  "descriptions": [],
+  "images": [
+    {
+      "url": "https://assets.decocache.com/frigidaire-es/611bfa2f-0b58-4893-925f-747169a5e6d2/06.png"
+    },
+    {
+      "url": "https://assets.decocache.com/frigidaire-es/229af29d-12df-4347-be83-b7b672c7e393/04.png"
+    },
+    {
+      "url": "https://assets.decocache.com/frigidaire-es/2e856612-3c72-44b3-afa3-b0e1a9921baa/05.png"
+    }
+  ],
+  "videos": [],
+  "avaliableIn": [
+    {
+      "domain": "frigidaire-la.com"
+    }
+  ],
+  "documents": [],
+  "password": "frigidaire"
+}

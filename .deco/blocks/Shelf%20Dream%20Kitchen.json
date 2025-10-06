@@ -1,0 +1,104 @@
+{
+  "__resolveType": "elux-components-app/sections/Product/ProductShelf/ProductShelf.tsx",
+  "title": "Completa tu cocina con pequeños electrodomésticos Frigidaire",
+  "spacingConfig": {
+    "desktop": {
+      "top": {
+        "behavior": "split",
+        "size": "medium"
+      },
+      "bottom": {
+        "behavior": "split",
+        "size": "half-extra-small"
+      }
+    },
+    "mobile": {
+      "top": {
+        "behavior": "split",
+        "size": "extra-large"
+      },
+      "bottom": {
+        "behavior": "split",
+        "size": "none"
+      }
+    }
+  },
+  "extraLink": {},
+  "products": [
+    {
+      "loader": {
+        "data": {
+          "__resolveType": "elux-components-app/loaders/product/list/productList.ts",
+          "listOption": {
+            "normalFilters": [],
+            "measurementsFilters": [],
+            "category": "licuadoras---Licuadoras---3"
+          },
+          "sortBy": "name-asc"
+        },
+        "__resolveType": "resolved"
+      },
+      "title": "Licuadoras"
+    },
+    {
+      "loader": {
+        "data": {
+          "__resolveType": "elux-components-app/loaders/product/list/productList.ts",
+          "listOption": {
+            "normalFilters": [],
+            "measurementsFilters": [],
+            "category": "ollas-a-presion---Ollas a Presión---3"
+          },
+          "sortBy": "name-asc"
+        },
+        "__resolveType": "resolved"
+      },
+      "title": "Ollas de presión"
+    },
+    {
+      "loader": {
+        "data": {
+          "__resolveType": "elux-components-app/loaders/product/list/productList.ts",
+          "listOption": {
+            "normalFilters": [],
+            "measurementsFilters": [],
+            "category": "freidoras-de-aire---Freidoras de Aire---3"
+          },
+          "sortBy": "name-asc"
+        },
+        "__resolveType": "resolved"
+      },
+      "title": "Freidoras de aire"
+    },
+    {
+      "loader": {
+        "data": {
+          "__resolveType": "elux-components-app/loaders/product/list/productList.ts",
+          "listOption": {
+            "normalFilters": [],
+            "measurementsFilters": [],
+            "category": "cafeteras---Cafeteras---3"
+          },
+          "sortBy": "name-asc"
+        },
+        "__resolveType": "resolved"
+      },
+      "title": "Cafeteras"
+    },
+    {
+      "loader": {
+        "data": {
+          "__resolveType": "elux-components-app/loaders/product/list/productList.ts",
+          "listOption": {
+            "normalFilters": [],
+            "measurementsFilters": [],
+            "category": "planchas---Planchas---3"
+          },
+          "sortBy": "name-asc"
+        },
+        "__resolveType": "resolved"
+      },
+      "title": "Planchas"
+    }
+  ]
+}

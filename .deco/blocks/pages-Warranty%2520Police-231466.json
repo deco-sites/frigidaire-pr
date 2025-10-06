@@ -1,0 +1,156 @@
+{
+  "name": "Warranty Police",
+  "path": "/politica-de-garantia",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Seo/SeoV2.tsx",
+      "titleTemplate": "Politica de Garantía Frigidaire"
+    },
+    {
+      "__resolveType": "Header"
+    },
+    {
+      "__resolveType": "elux-components-app/sections/Content/Breadcrumb.tsx",
+      "spacing": {
+        "desktop": {
+          "top": {
+            "behavior": "split",
+            "size": "extra-small"
+          },
+          "bottom": {
+            "behavior": "split",
+            "size": "none"
+          }
+        },
+        "mobile": {
+          "top": {
+            "behavior": "split",
+            "size": "extra-small"
+          }
+        }
+      },
+      "icon": "home-frigidaire",
+      "iconSize": 16,
+      "fontColor": "primary",
+      "fontSize": "text-xs",
+      "items": [
+        {
+          "label": "Politica de garantía"
+        }
+      ]
+    },
+    {
+      "__resolveType": "website/flags/multivariate/section.ts",
+      "variants": [
+        {
+          "value": {
+            "__resolveType": "elux-components-app/sections/Institutional/Policy.tsx",
+            "title": {
+              "text": "Politica de garantía",
+              "fontColor": "primary",
+              "fontSize": "text-2.5xl",
+              "fontWeight": "font-semibold"
+            },
+            "gap": "8",
+            "content": "<h3>CERTIFICADO DE GARANTÍA FRIGIDAIRE<br><br></h3><p style=\"text-align: start\">Este producto estó garantizado por el término de (1) un año a partir de la fecha de compra, cubre fallas en el funcionamiento y seró atendido sin costo alguno en mano de obra y refacciones.</p><p style=\"text-align: start\">Para hacer efectiva la garantía, solicite el servicioa través de cualquiera de nuestros medios de atención teniendo siemprea mano la factura o comprobante de compra en el que consten los datos específicos de modelo de producto y fecha de compra.<br><br></p><h1><strong><span style=\"font-size: 12pt\">Condiciones de esto garantía</span></strong><br><br></h1><p style=\"text-align: start\"><strong>01.</strong> El servicio para productos de la línea de cuidado de pisos (Aspiradoras, brilladoras, lavadoras a presión), dispensadores de agua y hornos microondas no empotrables seró prestado directamente en el centro de servicio autorizado, no se haró a domicilio.</p><p style=\"text-align: start\"><strong>02.</strong> El servicio de electrodomésticos mayores de línea blanca se realizaró a domicilio dentro del perímetro urbano de la ciudad donde se realiza la compra o donde exista un centro de servicio autorizado, sujeto a las condiciones de seguridad y accesibilidad de la zona.</p><p style=\"text-align: start\"><strong>03.</strong> La cobertura de esta garantía solo aplica dentro del territorio del país donde el producto fue adquirido. OS. La garantía consiste en la reparación del producto, cambio de las partes dañadas y transporte si es necesario.</p><p style=\"text-align: start\"><strong>05.</strong> La garantía no incluye trabajos de carpintería, mampostería, plomería, obras civiles, de electricidad etc.</p><p style=\"text-align: start\">externos al producto.</p><p style=\"text-align: start\"><strong>06.</strong> Esta garantía le proporciona derechos legales específicos, no obstante, estas condiciones no limitan, reemplazan ni modifican de manera alguna los derechos del consumidor otorgados en la legislación local de su país o estado.</p><p style=\"text-align: start\"><strong>07.</strong> El servicio seró prestado a través de nuestros propios técnicos o a través un centro de servicio autorizado.<br><br></p><p style=\"text-align: start\"></p><h1><strong><span style=\"font-size: 12pt\">Exclusiones de garantía</span></strong><br><br></h1><p style=\"text-align: start\"><strong>08. </strong>Uso con instalación eléctrica inadecuada o voltaje distinto al señalado en la placa o etiqueta de datos del</p><p style=\"text-align: start\">producto.</p><p style=\"text-align: start\"><strong>09. </strong>Retiro o alteración de la placa de especificaciones técnicas y número de serie.</p><p style=\"text-align: start\"><strong>10.</strong> Instalación o utilización diferente al que aparece en el manual de instrucciones.</p><p style=\"text-align: start\"><strong>11. </strong>Productos para uso doméstico utilizados para uso comercial, industrial o con fines de lucro.</p><p style=\"text-align: start\"><strong>12.</strong> Cuando el producto ha sido desarmado o intervenido por personas distintas a los técnicos autorizados o por fallas que resulten por conexiones defectuosas.</p><p style=\"text-align: start\"><strong>13. </strong>Accesorios o consumibles que presentan desgaste normal de uso o partes de tipo estético como manijas,</p><p style=\"text-align: start\">bandejas, filtros, bases, displays etc.</p><p style=\"text-align: start\"><strong>14.</strong> Utilización de repuestos, accesorios y consumibles no originales.</p><p style=\"text-align: start\"><strong>15. </strong>Defectos de funcionamiento o estéticos (condensación o sudoración, manchas, oxidación, corrosión, etc.) causados por condiciones ambientales (Humedad ambiental, temperaturas de trabajo inadecuadas, exposición a la intemperie, etc.)</p><p style=\"text-align: start\"><strong>16.</strong> Daños físicos causados por golpes, partes y vidrios quebrados, rayones o abolladuras posteriores a la entrega del producto.</p><p style=\"text-align: start\"><strong>17.</strong> Daños causados por plagas, roedores, insectos u otros animales.</p><p style=\"text-align: start\"><strong>18.</strong> Daños causados por limpieza inadecuada.</p><p style=\"text-align: start\"><strong>19.</strong> Daños causados por causas externas como abuso, mal uso, suministro eléctrico, accidentes, incendios o hechos fortuitos.</p><p style=\"text-align: start\"><strong>20</strong>. Oxido en el interior o exterior de la unidad.</p><p style=\"text-align: start\"><strong>21.</strong> Los productos comprados “como estón” no estón cubiertos por esta garantía.</p><p style=\"text-align: start\"><strong>22.</strong> Perdida de alimentos por fallas del refrigerador.</p><p style=\"text-align: start\"><strong>23.</strong> Llamadas / solicitudes de servicio técnico para corregir errores de instalación o para obtener instrucciones</p><p style=\"text-align: start\">de uso del producto.</p><p style=\"text-align: start\"><strong>24.</strong> Los gastos para hacer accesible el producto a fin de repararlo, como por ejemplo a extracción de adornos, alacenas, estanterías, etc., que no formaban parte del producto original.</p><p style=\"text-align: start\"><strong>25. </strong>Llamadas de servicio para reparar o reemplazar bombillas, filtros de aire y agua, otros consumibles, perillas, manijas y otras piezas decorativos.</p><p style=\"text-align: start\"><strong>26. </strong>Costos adicionales que incluyen, sin limitación, cualquier Ilamada de servicio fuera de las horas de oficina, durante los fines de semana o días festivos, tarifas de transporte o gastos de traslado para llamadas de servicio en óreas remotas.</p><p style=\"text-align: start\"><strong>27.</strong> Danos al acabado del electrodoméstico o al hogar que hayan ocurrido durante la instalación, incluyendo, sin limitación, los armarios, paredes, etc.</p><p style=\"text-align: start\">*Todas las exclusiones de garantía mencionadas aplican también para las garantías especiales.<br><br></p><p style=\"text-align: start\"><strong>Otros disposiciones:</strong><br><br></p><p style=\"text-align: start\"><strong>19.</strong> No existe ninguna persona física o jurídica autorizada para hacer excepciones o asumir compromisos en nombre de Frigidaire, con respecto a los términos contenidos en este Certificado de Garantía.</p><p style=\"text-align: start\"><strong>20.</strong> Para su conveniencia, conserve y revise cuidadosamente el Manual de Instrucciones del producto.</p><h1><br><br><strong><span style=\"font-size: 12pt\">Garantía Especial</span></strong><br><br></h1><p style=\"text-align: start\"></p><p style=\"text-align: start\"><strong>· Productos adquiridos o partir de enero 1 de 2021</strong><br></p><p style=\"text-align: start\"></p><p style=\"text-align: start\"><strong>Aires acondicionados Mini Split: </strong>Estón cubiertos por 10 años de Garantía en el compresor y 2 años de garantía en los demós componentes. Esta garantía especial cubre solamente el reemplazo de los componentes defec tuosos, no incluye gastos por mano de obra.<br><br></p><p style=\"text-align: start\"><strong>Lovodoros de ropa marco ELECTROLUX y FRIGIDAIRE de cargo frontal:</strong> Cuentan con 10 años de garantía en el motor de lavado. Esta garantía especial cubre solamente el reemplazo del motor, no incluye gastos por mano de obra.<br><br></p><p style=\"text-align: start\"><strong>Lovodoros de ropa marco ELECTROLUX y FRIGIDAIRE de cargo frontal o superior con tino de lavado de acero inoxidable:</strong> Las lavadoras fabricadas con tina de lavado de acero inoxidable cuentan con 10 años de garantía sobre este componente. Esta garantía especial comprende solamente el reemplazo de la tina de lavado. No incluye gastos por mano de obra. Esta garantía especial no cubre las lavadoras semiautomóticas o de doble tina.<br><br></p><p style=\"text-align: start\"><strong>Refrigerodores marco ELECTROLUX y FRIGIDAIRE tipo Top Mount fabricados fuero de EE. UU. con función no Frost (Sin escorcho):</strong> Cuentan con 10 años de garantía en el compresor. Esta garantía comprende la reparación o reemplazo del compresor, así como la mano de obra.<br><br></p><p style=\"text-align: start\"><strong>Refrigerodores y congelodores marco FRIGIDAIRE tipo Twin (solo modelos FRDX13EXXXX y FFUX09EXXXX}:</strong> Cuentan con 10 años de garantía en el compresor. Esta garantía comprende la reparación o reemplazo del compresor, así como la mano de obra.<br><br></p><p style=\"text-align: start\"><strong>Refrigerodores marco FRIGIDAIRE tipo Side by Side modelo FRSO52XXXX:</strong> Cuentan con 10 años de garantía en el compresor. Esta garantía comprende la reparación o reemplazo del compresor, así como la mano de obra.</p><p style=\"text-align: start\">Congelodores horizontales marco ELECTROLUX y FRIGIDAIRE› Cuentan con 3 años de garantía en el compresor. Esta Garantía comprende solamente el reemplazo del compresor. No incluye gastos por mano de obra.<br><br></p><p style=\"text-align: start\"></p><p style=\"text-align: start\"></p><p style=\"text-align: start\">· <strong>Productos adquiridos o partir de noviembre 1 de 2023</strong></p><p style=\"text-align: start\"><strong>Lovodoros de ropa marco ELECTROLUX y FRIGIDAIRE cargo superior fabricados por Electrolux Brasil:</strong> Cuentan con 10 años de garantía en el motor de lavado. Esta garantía especial cubre solamente el reemplazo del motor, no incluye gastos por mano de obra.<br><br></p><p style=\"text-align: start\"></p><p style=\"text-align: start\"></p><p style=\"text-align: start\">· <strong>Productos adquiridos o partir de enero 1 de 2025</strong></p><p style=\"text-align: start\"><strong>Aires acondicionados Split con gos R32:</strong> Cuentan con una garantía especial de 10 años en el compresor y 3 años en los demós componentes. Esta garantía de 3 años comprende reemplazo, así como la mano de obra. La garantía de 10 anos del compresor comprende solamente el reemplazo del compresor, no incluye gastos por mano de obra.</p>",
+            "spacing": {
+              "desktop": {
+                "top": {
+                  "behavior": "split",
+                  "size": "small"
+                },
+                "bottom": {
+                  "behavior": "split",
+                  "size": "none"
+                }
+              },
+              "mobile": {
+                "top": {
+                  "behavior": "split",
+                  "size": "medium"
+                },
+                "bottom": {
+                  "behavior": "split",
+                  "size": "none"
+                }
+              }
+            },
+            "contentFontSize": "text-sm"
+          },
+          "rule": {
+            "__resolveType": "website/matchers/device.ts",
+            "mobile": true
+          }
+        },
+        {
+          "value": {
+            "__resolveType": "elux-components-app/sections/Institutional/Policy.tsx",
+            "title": {
+              "text": "Politica de garantía",
+              "fontColor": "primary",
+              "fontSize": "text-4xl",
+              "fontWeight": "font-semibold"
+            },
+            "gap": "8",
+            "content": "<h3>CERTIFICADO DE GARANTÍA FRIGIDAIRE<br><br></h3><p style=\"text-align: start\">Este producto está garantizado por el término de (1) un año a partir de la fecha de compra, cubre fallas en el funcionamiento y será atendido sin costo alguno en mano de obra y refacciones. </p><p>Para hacer efectiva la garantía, solicite el servicio a través de cualquiera de nuestros medios de atención teniendo siempre a la mano la factura o comprobante de compra en el que consten los datos específicos de modelo de producto y fecha de compra. </p><p><br><br></p><p><strong><span style=\"font-size: 12pt\">Condiciones de esto garantía</span></strong><br><strong>01.</strong> El servicio para productos de la línea de cuidado de pisos (Aspiradoras, brilladoras, lavadoras a presión), dispensadores de agua y hornos microondas no empotrables será prestado directamente en el centro de servicio autorizado, no se hará a domicilio.</p><p><strong>02.</strong> El servicio de electrodomésticos mayores de línea blanca se realizará a domicilio dentro del perímetro urbano de la ciudad donde se realiza la compra o donde exista un centro de servicio autorizado, sujeto a las condiciones de seguridad y accesibilidad de la zona.</p><p><strong>03.</strong> La cobertura de esta garantía solo aplica dentro del territorio del país donde el producto fue adquirido. OS. La garantía consiste en la reparación del producto, cambio de las partes dañadas y transporte si es necesario.</p><p><strong>05.</strong> La garantía no incluye trabajos de carpintería, mampostería, plomería, obras civiles, de electricidad etc. externos al producto.</p><p><strong>06.</strong> Esta garantía le proporciona derechos legales específicos, no obstante, estas </p><p>condiciones no limitan, reemplazan ni modifican de manera alguna los derechos de los consumidores otorgados en la legislación local de su país o estado. </p><p><strong>07.</strong> El servicio será prestado a través de nuestros propios técnicos o a través de un centro de servicio autorizado.</p><p><br><br></p><p style=\"text-align: start\"></p><h1><strong><span style=\"font-size: 12pt\">Exclusiones de garantía</span></strong><br><br></h1><p style=\"text-align: start\"><strong>08.</strong> Uso con instalación eléctrica inadecuada o voltaje distinto al señalado en la placa o etiqueta de datos del producto.</p><p><strong>09.</strong> Retiro o alteración de la placa de especificaciones técnicas y número de serie.</p><p><strong>10.</strong> Instalación o utilización diferente al que aparece en el manual de instrucciones.</p><p><strong>11.</strong> Productos para uso doméstico utilizados para uso comercial, industrial o con fines de lucro.</p><p><strong>12.</strong> Cuando el producto ha sido desarmado o intervenido por personas distintas a los  técnicos autorizados o por fallas que resulten por conexiones defectuosas. </p><p><strong>13.</strong> Accesorios o consumibles que presentan desgaste normal de uso o partes de tipo estético como manijas, bandejas, filtros, bases, displays etc. </p><p><strong>14.</strong> Utilización de repuestos, accesorios y consumibles no originales.</p><p><strong>15.</strong> Defectos de funcionamiento o estéticos (condensación o sudoración, manchas, oxidación, corrosión, etc.) causados por condiciones ambientales (Humedad ambiental, temperaturas de trabajo inadecuadas, exposición a la intemperie, etc.) </p><p><strong>16.</strong> Daños físicos causados por golpes, partes y vidrios quebrados, rayones o abolladuras posteriores a la entrega del producto.</p><p><strong>17.</strong> Daños causados por plagas, roedores, insectos u otros animales.</p><p><strong>18.</strong> Daños causados por limpieza inadecuada.</p><p><strong>19.</strong> Daños causados por causas externas como abuso, mal uso, suministro eléctrico,</p><p>accidentes, incendios o hechos fortuitos.</p><p><strong>20.</strong> Oxido en el interior o exterior de la unidad.</p><p><strong>21.</strong> Los productos comprados “como están” no están cubiertos por esta garantía.</p><p><strong>22.</strong> Pérdida de alimentos por fallas del refrigerador.</p><p><strong>23.</strong> Llamadas / solicitudes de servicio técnico para corregir errores de instalación o para obtener instrucciones de uso del producto.</p><p><strong>24.</strong> Los gastos para hacer accesible el producto a fin de repararlo, como por ejemplo la extracción de adornos, alacenas, estanterías, etc., que no formaban parte del producto original.</p><p><strong>25.</strong> Llamadas de servicio para reparar o reemplazar bombillas, filtros de aire y agua, otros consumibles, perillas, manijas y otras piezas decorativas.</p><p><strong>26.</strong> Costos adicionales que incluyen, sin limitación, cualquier llamada de servicio fuera de las horas de oficina, durante los fines de semana o días festivos, tarifas de transporte o gastos de traslado para llamadas de servicio en áreas remotas.</p><p><strong>27.</strong> Daños al acabado del electrodoméstico o al hogar que hayan ocurrido durante la</p><p>instalación, incluyendo, sin limitación, los armarios, paredes, etc.</p><p><br><br>*Todas las exclusiones de garantía mencionadas aplican también para las garantías especiales.<br><br></p><p><strong>Otras disposiciones:</strong></p><p><strong>19.</strong> No existe ninguna persona física o jurídica autorizada para hacer excepciones o asumir compromisos en nombre de Frigidaire, con respecto a los términos contenidos en este Certificado de Garantía.</p><p><strong>20.</strong> Para su conveniencia, conserve y revise cuidadosamente el Manual de Instrucciones del producto.</p><p></p><h1><br><br><strong><span style=\"font-size: 12pt\">Garantía Especial</span></strong><br><br></h1><p style=\"text-align: start\"></p><ul><li><p style=\"text-align: start\"><strong>Productos adquiridos o partir de enero 1 de 2021</strong></p></li></ul><p><strong>Aires acondicionados Mini Split: </strong>Están cubiertos por 10 años de garantía en el compresor y 2 años de garantía en los demás componentes. Esta garantía especial cubre solamente el reemplazo de los componentes defectuosos, no incluye gastos por mano de obra.<br><br></p><p><strong>Lavadoras de ropa marca ELECTROLUX y FRIGIDAIRE de carga frontal: </strong>Cuentan con 10 años de garantía en el motor de lavado. Esta garantía especial cubre solamente el reemplazo del motor, no incluye gastos por mano de obra.<br><br></p><p><strong>Lavadoras de ropa marca ELECTROLUX y FRIGIDAIRE de carga frontal o superior con tina de lavado de acero inoxidable: </strong>Las lavadoras fabricadas con tina de lavado de acero inoxidable cuentan con 10 años de garantía sobre este componente. Esta garantía especial comprende solamente el reemplazo de la tina de lavado. No incluye gastos por mano de obra.<strong> </strong><br><strong>Esta garantía especial no cubre las lavadoras semiautomáticas o de doble tina.</strong></p><p><br><br><strong>Refrigeradores marca ELECTROLUX y FRIGIDAIRE tipo Top Mount fabricados fuera de EE. UU. con función no Frost (Sin escarcha): </strong>Cuentan con 10 años de garantía en el compresor.</p><p>Esta garantía comprende la reparación o reemplazo del compresor, así como la mano de obra.<br><br></p><p><strong>Refrigeradores y congeladores marca FRIGIDAIRE tipo Twin (solo modelos FRDX13EXXXX y FFUX09EXXXX}: </strong>Cuentan con 10 años de garantía en el compresor. <br>Esta garantía comprende la reparación o reemplazo del compresor, así como la mano de obra.<br><br></p><p><strong>Refrigeradores marca FRIGIDAIRE tipo Side by Side modelo FRSO52XXXX: </strong>Cuentan con 10 años de garantía en el compresor. Esta garantía comprende la reparación o reemplazo del compresor, así como la mano de obra.<br><br></p><p><strong>Congeladores horizontales marca ELECTROLUX y FRIGIDAIRE: </strong>Cuentan con 3 años de garantía en el compresor. Esta Garantía comprende solamente el reemplazo del compresor. No incluye gastos por mano de obra.<br><br></p><p><strong>· Productos adquiridos o partir de noviembre 1 de 2023</strong></p><p><strong>Lavadoras de ropa marca ELECTROLUX y FRIGIDAIRE carga superior fabricados por</strong></p><p><strong>Electrolux Brasil: </strong>Cuentan con 10 años de garantía en el motor de lavado. Esta garantía especial cubre solamente el reemplazo del motor, no incluye gastos por mano de obra.<br><br></p><p><strong>· Productos adquiridos o partir de enero 1 de 2025</strong></p><p><strong>Aires acondicionados Split con gas R32: </strong>Cuentan con una garantía especial de 10 años en el compresor y 3 años en los demás componentes. Esta garantía de 3 años comprende el reemplazo, así como la mano de obra. La garantía de 10 años del compresor comprende solamente el reemplazo del compresor, no incluye gastos por mano de obra.</p><p style=\"text-align: start\"><br><br><strong>Lovodoros de ropa marca ELECTROLUX y FRIGIDAIRE de carga frontal:</strong> Cuentan con 10 años de garantía en el motor de lavado. Esta garantía especial cubre solamente el reemplazo del motor, no incluye gastos por mano de obra.<br><br></p>",
+            "spacing": {
+              "desktop": {
+                "top": {
+                  "behavior": "split",
+                  "size": "small"
+                },
+                "bottom": {
+                  "behavior": "split",
+                  "size": "none"
+                }
+              },
+              "mobile": {
+                "top": {
+                  "behavior": "split",
+                  "size": "medium"
+                },
+                "bottom": {
+                  "behavior": "split",
+                  "size": "none"
+                }
+              }
+            },
+            "contentFontSize": "text-sm"
+          },
+          "rule": {
+            "__resolveType": "website/matchers/always.ts"
+          }
+        }
+      ]
+    },
+    {
+      "__resolveType": "elux-components-app/sections/Content/RawText.tsx",
+      "text": "<p>En Puerto Rico: Producto Importado Y distribuido por Electrolux Puerto Rico Corporation Building A, Road •l, Km 25.3 San Juan Industrial Park Quebrada Arena Ward San Juan, Puerto Rico, 0092ó P.O Box 3ó287 San Juan, Puerto Rico 0093ó-3287 En México: Producto, Importado y distribuido por ELECTROL UX COMERCI AL, S.A. DE C.V. CALLE SAN ISIDRO 4251 COL. EL BARREAL, C.P. 32720 CIUDAD JUAREZ, CHI HUAHU A, MÉXICO</p>"
+    },
+    {
+      "__resolveType": "website/flags/multivariate/section.ts",
+      "variants": [
+        {
+          "value": {
+            "__resolveType": "Footer mobile"
+          },
+          "rule": {
+            "__resolveType": "Mobile"
+          }
+        },
+        {
+          "value": {
+            "__resolveType": "Footer"
+          },
+          "rule": {
+            "__resolveType": "website/matchers/always.ts"
+          }
+        }
+      ]
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

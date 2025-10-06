@@ -1,0 +1,16 @@
+{
+  "__resolveType": "elux-components-app/actions/product/categories/addProductCategories.ts",
+  "categories": [
+    {
+      "subjectOf": "estufas-y-cocinas---Estufas / Cocinas---3"
+    },
+    {
+      "subjectOf": "cocinas---Cocinas---2"
+    },
+    {
+      "subjectOf": "cocina---Cocina---1"
+    }
+  ],
+  "password": "frigidaire",
+  "sku": "FKGI30ZTOBTG"
+}

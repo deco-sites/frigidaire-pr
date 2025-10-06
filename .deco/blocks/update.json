@@ -1,0 +1,159 @@
+{
+  "__resolveType": "elux-components-app/actions/product/additionalProperties/updateAdditionaProperties.ts",
+  "additionalProperties": [
+    {
+      "name": "Ajustes Inteligentes de temperatura",
+      "value": "No"
+    },
+    {
+      "name": "Canasta porta-huevos",
+      "value": "Sí"
+    },
+    {
+      "name": "Capacidad neta del congelador (litros)",
+      "value": "77"
+    },
+    {
+      "name": "Capacidad neta del refrigerador (litros)",
+      "value": "234"
+    },
+    {
+      "name": "Capacidad neta total (litros)",
+      "value": "311"
+    },
+    {
+      "name": "Cesto alambrado",
+      "value": "No"
+    },
+    {
+      "name": "Codigo SAP",
+      "value": "928020382"
+    },
+    {
+      "name": "Color",
+      "value": "Plata"
+    },
+    {
+      "name": "Compartimiento para frutas y verduras",
+      "value": "Sí"
+    },
+    {
+      "name": "Compartimiento para Huevos",
+      "value": "Sí"
+    },
+    {
+      "name": "Dispenser de agua",
+      "value": "Sí"
+    },
+    {
+      "name": "Dispenser de agua y hielo",
+      "value": "Sí"
+    },
+    {
+      "name": "Drink Express",
+      "value": "No"
+    },
+    {
+      "name": "EAN",
+      "value": "7861106376726"
+    },
+    {
+      "name": "Estante Porta Latas",
+      "value": "Sí"
+    },
+    {
+      "name": "Estante retráctil",
+      "value": "No"
+    },
+    {
+      "name": "Estantes Fast Adapt",
+      "value": "No"
+    },
+    {
+      "name": "Fabrica de Hielo",
+      "value": "No"
+    },
+    {
+      "name": "Frecuencia (Hz)",
+      "value": "50"
+    },
+    {
+      "name": "Garantia",
+      "value": "12 meses"
+    },
+    {
+      "name": "Gas refrigerante",
+      "value": "R600a"
+    },
+    {
+      "name": "Hieleras suspendidas",
+      "value": "No"
+    },
+    {
+      "name": "Home Bar",
+      "value": "No"
+    },
+    {
+      "name": "Ice Max",
+      "value": "No"
+    },
+    {
+      "name": "Ice Twister",
+      "value": "No"
+    },
+    {
+      "name": "Modelo",
+      "value": "ERTM45F5HPS"
+    },
+    {
+      "name": "Origen",
+      "value": "China"
+    },
+    {
+      "name": "País",
+      "value": "PUB"
+    },
+    {
+      "name": "Panel Blue Touch",
+      "value": "No"
+    },
+    {
+      "name": "Pies Niveladores",
+      "value": "Sí"
+    },
+    {
+      "name": "Prateleras reversibles y retráctiles",
+      "value": "No"
+    },
+    {
+      "name": "Puertas Reversibles",
+      "value": "Sí"
+    },
+    {
+      "name": "Ruedas 360° y manija ergonómica",
+      "value": "No"
+    },
+    {
+      "name": "Tecnologia de refrigeración",
+      "value": "Frío húmedo"
+    },
+    {
+      "name": "Tecnología Inverter",
+      "value": "No"
+    },
+    {
+      "name": "Tipo",
+      "value": "Dos Puertas"
+    },
+    {
+      "name": "Turbo Congelamiento",
+      "value": "No"
+    },
+    {
+      "name": "Voltage (en kwts)",
+      "value": "220"
+    }
+  ],
+  "password": "frigidaire",
+  "sku": "ERTM45F5HPS"
+}

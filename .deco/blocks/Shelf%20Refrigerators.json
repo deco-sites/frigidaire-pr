@@ -1,0 +1,85 @@
+{
+  "__resolveType": "elux-components-app/sections/Product/ProductShelf/ProductShelf.tsx",
+  "spacingConfig": {
+    "desktop": {
+      "top": {
+        "behavior": "split",
+        "size": "medium"
+      },
+      "bottom": {
+        "behavior": "split",
+        "size": "medium"
+      }
+    },
+    "mobile": {
+      "top": {
+        "behavior": "split",
+        "size": "extra-large"
+      },
+      "bottom": {
+        "behavior": "split",
+        "size": "extra-large"
+      }
+    }
+  },
+  "title": "Productos más vendidos",
+  "extraLink": {},
+  "products": [
+    {
+      "loader": {
+        "__resolveType": "resolved",
+        "data": {
+          "__resolveType": "elux-components-app/loaders/product/list/productList.ts",
+          "sortBy": "name-asc",
+          "skip": 0,
+          "take": 5,
+          "listOption": [
+            "PRSC2222AF",
+            "FRTS12K3HTS",
+            "GRFS2853AF",
+            "FRD04G4HPI",
+            "FFCC11C3HQW"
+          ]
+        }
+      },
+      "title": "Refrigeración"
+    },
+    {
+      "loader": {
+        "__resolveType": "resolved",
+        "data": {
+          "__resolveType": "elux-components-app/loaders/product/list/productList.ts",
+          "sortBy": "name-asc",
+          "skip": 0,
+          "take": 5,
+          "listOption": [
+            "FKGI30ZTOBTG",
+            "FMTP24G3SXB",
+            "FHWC3060LS",
+            "FCWD3027AS"
+          ]
+        }
+      },
+      "title": "Cocina"
+    },
+    {
+      "loader": {
+        "__resolveType": "resolved",
+        "data": {
+          "__resolveType": "elux-components-app/loaders/product/list/productList.ts",
+          "sortBy": "name-asc",
+          "skip": 0,
+          "take": 5,
+          "data": null,
+          "listOption": [
+            "FWAB17J4EBGUW",
+            "FDE190MSSW",
+            "FWD11M4W",
+            "FLCG7522AW"
+          ]
+        }
+      },
+      "title": "Lavado"
+    }
+  ]
+}

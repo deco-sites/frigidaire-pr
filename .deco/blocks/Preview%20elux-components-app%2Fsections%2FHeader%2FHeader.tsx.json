@@ -1,0 +1,10 @@
+{
+  "__resolveType": "elux-components-app/sections/Header/Header.tsx",
+  "logo": {},
+  "menu": {
+    "links": [],
+    "extraLinks": [],
+    "mobile": {}
+  },
+  "backgroundColor": "base-100"
+}

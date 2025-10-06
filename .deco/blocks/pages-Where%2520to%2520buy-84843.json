@@ -1,0 +1,99 @@
+{
+  "path": "/donde-comprar",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Seo/SeoV2.tsx",
+      "titleTemplate": "¿Dónde comprar?"
+    },
+    {
+      "__resolveType": "Header"
+    },
+    {
+      "__resolveType": "elux-components-app/sections/Content/Breadcrumb.tsx",
+      "icon": "home-frigidaire",
+      "iconSize": 16,
+      "fontColor": "primary",
+      "fontSize": "text-xs",
+      "items": [
+        {
+          "label": "¿Dónde comprar?  "
+        }
+      ],
+      "spacing": {
+        "desktop": {
+          "top": {
+            "behavior": "split",
+            "size": "extra-small"
+          },
+          "bottom": {
+            "behavior": "split",
+            "size": "none"
+          }
+        },
+        "mobile": {
+          "top": {
+            "behavior": "split",
+            "size": "extra-small"
+          }
+        }
+      }
+    },
+    {
+      "__resolveType": "elux-components-app/sections/Institutional/WhereToBuy.tsx",
+      "spacing": {
+        "mobile": {
+          "top": {
+            "behavior": "split",
+            "size": "extra-large"
+          }
+        },
+        "desktop": {
+          "top": {
+            "behavior": "split",
+            "size": "small"
+          }
+        }
+      },
+      "titleText": "¿Dónde comprar?",
+      "descriptionText": "Selecciona el país y consulta las tiendas donde puedes comprar productos Frigidaire",
+      "loader": {
+        "data": {
+          "__resolveType": "WhereToBuy"
+        },
+        "__resolveType": "resolved"
+      },
+      "countries": {
+        "__resolveType": "elux-components-app/loaders/whereToBuy.ts",
+        "countries": []
+      },
+      "emptyContent": "Selecciona el pais",
+      "forceCountry": "Porto Rico"
+    },
+    {
+      "__resolveType": "website/flags/multivariate/section.ts",
+      "variants": [
+        {
+          "value": {
+            "__resolveType": "Footer mobile"
+          },
+          "rule": {
+            "__resolveType": "Mobile"
+          }
+        },
+        {
+          "value": {
+            "__resolveType": "Footer"
+          },
+          "rule": {
+            "__resolveType": "website/matchers/always.ts"
+          }
+        }
+      ]
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx",
+  "name": "Where to buy"
+}

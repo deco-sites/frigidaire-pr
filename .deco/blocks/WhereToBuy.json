@@ -1,0 +1,506 @@
+{
+  "__resolveType": "elux-components-app/loaders/whereToBuy.ts",
+  "countries": [
+    {
+      "icon": "costa-rica-frigidaire",
+      "countryStores": [
+        {
+          "title": "Gollo",
+          "description": "Store website",
+          "href": "https://www.gollo.com/search/frigidaire",
+          "disableBorder": true,
+          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-nola-us/14cdbc73-11e3-480e-a943-a25872f7a4b1/Store-logo.png",
+          "desktopImage": "https://data.decoassets.com/frigidaire-es/c530bd06-8070-4da3-bb00-f650d61ff1ee/GOLLO.png",
+          "mobileImage": "https://data.decoassets.com/frigidaire-es/12d06561-9657-43b4-9dee-c91fe6c22d3a/GOLLO.png"
+        },
+        {
+          "desktopImage": "https://data.decoassets.com/frigidaire-es/c7d12b58-4abc-4320-8f52-49238c0ee8b0/MONGE.png",
+          "mobileImage": "https://data.decoassets.com/frigidaire-es/d979e5d5-5142-4b65-8658-e7aff9054f7f/MONGE.png",
+          "title": "Monge",
+          "description": "Store website",
+          "href": "https://www.tiendamonge.com/catalogsearch/result/?q=frigidaire",
+          "disableBorder": true
+        },
+        {
+          "desktopImage": "https://data.decoassets.com/frigidaire-es/82b46d8c-dea7-40f8-9bb6-c37554a79905/LOGO.png",
+          "mobileImage": "https://data.decoassets.com/frigidaire-es/7a3964be-a545-4bb8-9321-d302a3e84609/LOGO.png",
+          "title": "Ambitec",
+          "description": "Store website",
+          "href": "https://ambitec.cr/?s=frigidaire&post_type=product&type_aws=true",
+          "disableBorder": true
+        },
+        {
+          "desktopImage": "https://data.decoassets.com/frigidaire-es/840f2f65-3d80-4ea7-acaf-d11a6495047b/siman.png",
+          "mobileImage": "https://data.decoassets.com/frigidaire-es/4304791d-8d12-44f6-900c-69eac1177da2/siman.png",
+          "title": "Siman",
+          "description": "Store website",
+          "href": "https://cr.siman.com/frigidaire?_q=frigidaire&map=ft",
+          "disableBorder": true
+        },
+        {
+          "desktopImage": "https://data.decoassets.com/frigidaire-es/9bb80221-fe93-4716-b58c-d9af72f74531/cemaco.png",
+          "mobileImage": "https://data.decoassets.com/frigidaire-es/46c43cb5-5eba-4ff1-a727-3a1f6e7f11c0/cemaco.png",
+          "title": "Cemaco",
+          "description": "Store website",
+          "href": "https://www.cemaco.co.cr/advanced_search?buscar=frigidaire",
+          "disableBorder": true
+        },
+        {
+          "desktopImage": "https://data.decoassets.com/frigidaire-es/f4b484d6-b1b5-4ab9-ac7f-b670071b6ef4/Euromobilia.png",
+          "mobileImage": "https://data.decoassets.com/frigidaire-es/f4b484d6-b1b5-4ab9-ac7f-b670071b6ef4/Euromobilia.png",
+          "title": "Euromobilia",
+          "description": "Store website",
+          "href": "https://www.euromobilia.com/tienda/busqueda?controller=search&orderby=position&orderway=desc&s=frigidaire&search_category=all&submit_search=",
+          "disableBorder": true
+        },
+        {
+          "desktopImage": "https://data.decoassets.com/frigidaire-es/66764e25-9382-4b86-9cc5-170f75889e5f/La-cuisine.png",
+          "mobileImage": "https://data.decoassets.com/frigidaire-es/e24f5572-707d-4c22-abcd-ebd7599d7185/La-cuisine.png",
+          "title": "La Cuisine Appliances",
+          "href": "https://www.lacuisineappliancescr.com/search?q=frigidaire",
+          "description": "Store website",
+          "disableBorder": true
+        }
+      ],
+      "label": "Costa Rica",
+      "id": "costa-rica"
+    },
+    {
+      "icon": "dominican-frigidaire",
+      "countryStores": [
+        {
+          "title": "Jumbo",
+          "description": "Store website",
+          "href": "https://jumbo.com.do/catalogsearch/result/?q=frigidaire",
+          "disableBorder": true,
+          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-nola-us/14cdbc73-11e3-480e-a943-a25872f7a4b1/Store-logo.png",
+          "desktopImage": "https://data.decoassets.com/frigidaire-es/4f6d1119-96ce-4f43-b708-980bb0e9334a/Jumbo-(1).png",
+          "mobileImage": "https://data.decoassets.com/frigidaire-es/4184c205-197d-4149-88a4-62b284b1267a/Jumbo-(1).png"
+        },
+        {
+          "title": "Casa Cuesta",
+          "description": "Store website",
+          "href": "https://casacuesta.com/catalogsearch/result/index/?p=2&q=frigidaire",
+          "disableBorder": true,
+          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-nola-us/14cdbc73-11e3-480e-a943-a25872f7a4b1/Store-logo.png",
+          "desktopImage": "https://data.decoassets.com/frigidaire-es/28dd69f0-59b1-4288-9092-6538a78216c4/Logocasacuesta.svg",
+          "mobileImage": "https://data.decoassets.com/frigidaire-es/28dd69f0-59b1-4288-9092-6538a78216c4/Logocasacuesta.svg"
+        },
+        {
+          "title": "Tiendas Coripio",
+          "description": "Store website",
+          "href": "https://www.tiendascorripio.com.do/catalogo?q=frigidaire",
+          "disableBorder": true,
+          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-nola-us/14cdbc73-11e3-480e-a943-a25872f7a4b1/Store-logo.png",
+          "desktopImage": "https://data.decoassets.com/frigidaire-es/ef1bc672-ae01-4502-9517-cbf818dc79af/Logocorripio.svg",
+          "mobileImage": "https://data.decoassets.com/frigidaire-es/ef1bc672-ae01-4502-9517-cbf818dc79af/Logocorripio.svg"
+        },
+        {
+          "title": "Parque Industrial Tamboril Santiago",
+          "description": "Store website",
+          "href": "https://inmuebleca.com/?post_type=product&type_aws=true&s=frigidaire",
+          "disableBorder": true,
+          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-nola-us/14cdbc73-11e3-480e-a943-a25872f7a4b1/Store-logo.png",
+          "desktopImage": "https://data.decoassets.com/frigidaire-es/feef0f3c-55fe-489f-9413-eb8bf1e48c12/LOGO-(1).png",
+          "mobileImage": "https://data.decoassets.com/frigidaire-es/1a0560c4-696a-4099-8008-52db657f51c3/LOGO-(1).png"
+        },
+        {
+          "title": "Plaza Lama",
+          "description": "Store website",
+          "href": "https://plazalama.com.do/search?name=frigidaire",
+          "disableBorder": true,
+          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-nola-us/14cdbc73-11e3-480e-a943-a25872f7a4b1/Store-logo.png",
+          "desktopImage": "https://data.decoassets.com/frigidaire-es/8fa76f8a-95fa-4231-9573-a3ff7a8d3ade/plaza.jpg",
+          "mobileImage": "https://data.decoassets.com/frigidaire-es/709e5ebb-e669-4d54-b1f9-61c826e1a74d/plaza.jpg"
+        },
+        {
+          "title": "Hi Fi",
+          "description": "Store website",
+          "href": "https://hifi.com.do/search?search=frigidaire",
+          "disableBorder": true,
+          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-nola-us/14cdbc73-11e3-480e-a943-a25872f7a4b1/Store-logo.png",
+          "desktopImage": "https://data.decoassets.com/frigidaire-es/bd04fec9-5bf0-449e-821b-6ee8af8e649c/LOGO-(2).png",
+          "mobileImage": "https://data.decoassets.com/frigidaire-es/5d9c66bc-b5d2-41d2-a4e5-bbeeae4d570b/LOGO-(2).png"
+        },
+        {
+          "title": "Ferretaria Ochoa",
+          "description": "Store website",
+          "href": "https://ochoa.com.do/buscar?q=frigidaire",
+          "disableBorder": true,
+          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-nola-us/14cdbc73-11e3-480e-a943-a25872f7a4b1/Store-logo.png",
+          "desktopImage": "https://data.decoassets.com/frigidaire-es/0e4a25f8-e1b8-4ba2-91bc-6eeafe8fe475/logo_8a_header.svg",
+          "mobileImage": "https://data.decoassets.com/frigidaire-es/0e4a25f8-e1b8-4ba2-91bc-6eeafe8fe475/logo_8a_header.svg"
+        },
+        {
+          "title": "Innova Centro",
+          "description": "Store website",
+          "href": "https://innovacentro.com.do/search?q=frigidaire",
+          "disableBorder": true,
+          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-nola-us/14cdbc73-11e3-480e-a943-a25872f7a4b1/Store-logo.png",
+          "desktopImage": "https://data.decoassets.com/frigidaire-es/c865f3fd-a630-4c8d-b3fe-fc0891ccf6a9/LOGO-(3).png",
+          "mobileImage": "https://data.decoassets.com/frigidaire-es/3666d668-641e-4bc2-9241-15bdb2eaeb27/LOGO-(3).png"
+        },
+        {
+          "desktopImage": "https://data.decoassets.com/frigidaire-es/4763838d-245e-492e-8e49-1fca04a98d62/logosirena.svg",
+          "mobileImage": "https://data.decoassets.com/frigidaire-es/4763838d-245e-492e-8e49-1fca04a98d62/logosirena.svg",
+          "title": "Sirena",
+          "description": "Store website",
+          "href": "https://www.sirena.do/products/search/frigidaire",
+          "disableBorder": true
+        },
+        {
+          "desktopImage": "https://data.decoassets.com/frigidaire-es/bf5f5027-1a7d-46e5-b9ab-9ca4ffe72fcd/LOGO-(4).png",
+          "mobileImage": "https://data.decoassets.com/frigidaire-es/af2b669d-5b08-4078-890f-ed5f2ce5539b/LOGO-(4).png",
+          "title": "Molina",
+          "description": "Store website",
+          "href": "https://www.molina.com.do/buscar.php?s=frigidaire",
+          "disableBorder": true
+        }
+      ],
+      "label": "República Dominicana",
+      "id": "republica-dominicana"
+    },
+    {
+      "icon": "el-salvador-frigidaire",
+      "countryStores": [
+        {
+          "title": "La curacao",
+          "description": "Store website",
+          "href": "https://www.lacuracaonline.com/elsalvador/search/frigidaire",
+          "disableBorder": true,
+          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-nola-us/14cdbc73-11e3-480e-a943-a25872f7a4b1/Store-logo.png",
+          "desktopImage": "https://data.decoassets.com/frigidaire-es/a5ac1b5e-474d-40b3-b3f2-3ee8c6b2fbfb/Logo-(16).png",
+          "mobileImage": "https://data.decoassets.com/frigidaire-es/38534d64-037b-4c17-88ae-d4a49f9e043f/Logo-(16).png"
+        },
+        {
+          "title": "Siman",
+          "description": "Store website",
+          "href": "https://sv.siman.com/frigidaire?_q=frigidaire&map=ft",
+          "disableBorder": true,
+          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-nola-us/14cdbc73-11e3-480e-a943-a25872f7a4b1/Store-logo.png",
+          "desktopImage": "https://data.decoassets.com/frigidaire-es/b37dd2c4-01bb-4589-9efb-c4ad3bc28db0/siman.png",
+          "mobileImage": "https://data.decoassets.com/frigidaire-es/1155cbf5-07d9-424d-b5d3-b84f66d5d0e8/siman.png"
+        },
+        {
+          "title": "Prado",
+          "description": "Store website",
+          "href": "https://www.prado.com.sv/catalogsearch/result/?q=frigidaire",
+          "disableBorder": true,
+          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-nola-us/14cdbc73-11e3-480e-a943-a25872f7a4b1/Store-logo.png",
+          "desktopImage": "https://data.decoassets.com/frigidaire-es/bf4a8872-e6f4-425e-a03c-f53de691ef48/LOGO-(5).png",
+          "mobileImage": "https://data.decoassets.com/frigidaire-es/670f68b2-198c-455f-91c3-baf3666803cb/LOGO-(5).png"
+        },
+        {
+          "title": "Agencias way",
+          "description": "Store website",
+          "href": "https://agenciasway.com.sv/?s=frigidaire&post_type=product&type_aws=true",
+          "disableBorder": true,
+          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-nola-us/14cdbc73-11e3-480e-a943-a25872f7a4b1/Store-logo.png",
+          "desktopImage": "https://data.decoassets.com/frigidaire-es/056cf970-dd01-432e-9922-76bc51db292f/LOGO-(6).png",
+          "mobileImage": "https://data.decoassets.com/frigidaire-es/51720857-d7d8-466a-adfb-9ca99a34c124/LOGO-(6).png"
+        }
+      ],
+      "label": "El Salvador",
+      "id": "el-salvador"
+    },
+    {
+      "icon": "guatemala-frigidaire",
+      "countryStores": [
+        {
+          "title": "Tecno Facil",
+          "description": "Store website",
+          "href": "https://www.tecnofacil.com.gt/catalogsearch/result/?q=Frigidaire",
+          "disableBorder": true,
+          "desktopImage": "https://data.decoassets.com/frigidaire-es/4f3f6324-1322-462d-84f0-67b56d802c7b/LOGO-(7).png",
+          "mobileImage": "https://data.decoassets.com/frigidaire-es/d145cddb-5159-4edf-9348-d12f79bc6a1b/LOGO-(7).png"
+        },
+        {
+          "title": "Max",
+          "description": "Store website",
+          "href": "https://www.max.com.gt/search?q=frigidaire",
+          "disableBorder": true,
+          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-nola-us/14cdbc73-11e3-480e-a943-a25872f7a4b1/Store-logo.png",
+          "desktopImage": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-nola-us/59dee6de-1569-4e73-bee1-caac35768c89/Store-logo-(1).png",
+          "mobileImage": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-nola-us/b1c7663d-0aae-4239-8cd0-c40572f51607/Store-logo-(1).png"
+        },
+        {
+          "title": "Agencias Way",
+          "description": "Store website",
+          "href": "https://agenciasway.com.gt/?s=FRIGIDAIRE",
+          "disableBorder": true,
+          "desktopImage": "https://data.decoassets.com/frigidaire-es/13803d65-16b1-4448-8497-a306ab9b4099/LOGO-(6).png",
+          "mobileImage": "https://data.decoassets.com/frigidaire-es/9a7d2f34-5635-4635-bbeb-e19d0a15081b/LOGO-(6).png"
+        },
+        {
+          "title": "Elektra",
+          "description": "Store website",
+          "href": "https://www.elektra.com.gt/frigidaire?_q=frigidaire&map=ft",
+          "disableBorder": true,
+          "desktopImage": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-nola-us/287825c5-1845-4a06-9374-c643451fb504/Store-logo-(3).png",
+          "mobileImage": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-nola-us/989ea1e7-85b7-4f9a-a7b8-1eb7246b5f1a/Store-logo-(3).png",
+          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-nola-us/14cdbc73-11e3-480e-a943-a25872f7a4b1/Store-logo.png"
+        },
+        {
+          "title": "La Curacao",
+          "description": "Store website",
+          "href": "https://icuracao.com/search?type=product&options%5Bunavailable_products%5D=last&options%5Bprefix%5D=none&q=frigidaire*",
+          "disableBorder": true,
+          "desktopImage": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-nola-us/d025337b-9165-4dee-b50b-27baccdbe3ad/Store-logo-(4).png",
+          "mobileImage": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-nola-us/1cfd8cf9-aae4-4624-b757-3c957c0bbf47/Store-logo-(4).png",
+          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-nola-us/14cdbc73-11e3-480e-a943-a25872f7a4b1/Store-logo.png"
+        },
+        {
+          "title": "Gallo Mas Gallo",
+          "description": "Store website",
+          "href": "https://www.elgallomasgallo.com.gt/marcas/frigidaire",
+          "disableBorder": true,
+          "desktopImage": "https://data.decoassets.com/frigidaire-es/d03b3051-ce14-43c9-b59f-73fae14c588d/Elgallomas-gallologo.svg",
+          "mobileImage": "https://data.decoassets.com/frigidaire-es/d03b3051-ce14-43c9-b59f-73fae14c588d/Elgallomas-gallologo.svg"
+        },
+        {
+          "title": "Vivendo",
+          "description": "Store website",
+          "href": "https://vivendo.com.gt/index.php?route=product/search&search=frigidaire&description=true",
+          "disableBorder": true,
+          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-nola-us/14cdbc73-11e3-480e-a943-a25872f7a4b1/Store-logo.png",
+          "desktopImage": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-nola-us/26f2b5c7-5768-4a55-9041-019f8446c916/Store-logo-(6).png",
+          "mobileImage": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-nola-us/0d63b9cd-40e9-4245-978e-56c20d399ccf/Store-logo-(6).png"
+        },
+        {
+          "title": "Electronica Panamericana",
+          "href": "https://electronicapanamericana.com/?s=frigidaire&post_type=product",
+          "description": "Store website",
+          "disableBorder": true,
+          "desktopImage": "https://data.decoassets.com/frigidaire-es/36791812-0759-47a3-9746-44f33e7ce349/LOGO-(8).png",
+          "mobileImage": "https://data.decoassets.com/frigidaire-es/a25ece20-6935-4b54-b7d8-c4fa4c6dc380/LOGO-(8).png"
+        },
+        {
+          "title": "Siman",
+          "href": "https://gt.siman.com/frigidaire?_q=frigidaire&map=ft",
+          "description": "Store website",
+          "disableBorder": true,
+          "desktopImage": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-nola-us/8a059972-7fae-4bb2-a606-5cce57a12d76/Store-logo-(9).png",
+          "mobileImage": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-nola-us/8ff6fbdd-c920-45c2-9a2f-491961b75791/Store-logo-(9).png",
+          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-nola-us/14cdbc73-11e3-480e-a943-a25872f7a4b1/Store-logo.png"
+        },
+        {
+          "title": "Bodegangas",
+          "disableBorder": true,
+          "description": "Store website",
+          "href": "https://bodegangasgts.com/?s=frigidaire&post_type=product",
+          "desktopImage": "https://data.decoassets.com/frigidaire-es/0850a735-404c-4c6f-a03f-7718e825abe3/Store-logo-(7)-(1).png",
+          "mobileImage": "https://data.decoassets.com/frigidaire-es/ae2efe36-8552-4fbb-8620-b757bc7adc48/Store-logo-(7)-(1).png",
+          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-nola-us/14cdbc73-11e3-480e-a943-a25872f7a4b1/Store-logo.png"
+        },
+        {
+          "title": "Sears",
+          "disableBorder": true,
+          "description": "Store website",
+          "href": "https://sears.com.gt/?s=FRIGIDAIRE",
+          "desktopImage": "https://data.decoassets.com/frigidaire-es/f2e6108a-264b-4bcc-b654-d726dc6e6a37/LOGO-(9).png",
+          "mobileImage": "https://data.decoassets.com/frigidaire-es/88b6c164-d97a-4569-b77b-8eeb2ae73d68/LOGO-(9).png"
+        }
+      ],
+      "label": "Guatemala",
+      "id": "guatemala"
+    },
+    {
+      "icon": "honduras-frigidaire",
+      "countryStores": [
+        {
+          "title": "Diunsa",
+          "description": "Store website",
+          "href": "https://www.diunsa.hn/frigidiare?_q=FRIGIDIARE&map=ft",
+          "disableBorder": true,
+          "desktopImage": "https://data.decoassets.com/frigidaire-es/d845ae02-bc71-43a7-8a6f-65bbc180cff3/Diunsalogo.svg",
+          "mobileImage": "https://data.decoassets.com/frigidaire-es/d845ae02-bc71-43a7-8a6f-65bbc180cff3/Diunsalogo.svg"
+        },
+        {
+          "title": "Almacenes Tropigas",
+          "description": "Store website",
+          "href": "https://www.almacenestropigas.com/honduras/catalogsearch/result/?q=frigidaire",
+          "disableBorder": true,
+          "desktopImage": "https://data.decoassets.com/frigidaire-es/4959959e-5e9e-4912-8687-cb66afb91bae/LOGO-(10).png",
+          "mobileImage": "https://data.decoassets.com/frigidaire-es/546fe3fe-d349-4186-b25d-010aa9b0f64e/LOGO-(10).png"
+        },
+        {
+          "title": "Lady Lee",
+          "description": "Store website",
+          "href": "https://ladylee.net/search?type=product&q=frigidaire",
+          "disableBorder": true,
+          "desktopImage": "https://data.decoassets.com/frigidaire-es/c891b6c8-6123-4677-8ec7-ca6aea42c46c/Lady-Lee.png",
+          "mobileImage": "https://data.decoassets.com/frigidaire-es/739f74a8-5ea6-4694-9188-6f27f45ce93d/Lady-Lee.png"
+        },
+        {
+          "title": "Jetstereo",
+          "description": "Store website",
+          "href": "https://www.jetstereo.com/resultados-de-busqueda?q=frigidaire",
+          "disableBorder": true,
+          "desktopImage": "https://data.decoassets.com/frigidaire-es/416cc988-80a2-4d4c-9edf-61f71f6282b6/LOGO-(11).png",
+          "mobileImage": "https://data.decoassets.com/frigidaire-es/9cdd0fba-cb87-4159-a459-cfc3873d2f4b/LOGO-(11).png"
+        },
+        {
+          "title": "El gallo mas gallo",
+          "description": "Store website",
+          "href": "https://www.elgallomasgallo.com.hn/catalogsearch/result/?q=frigidaire",
+          "disableBorder": true,
+          "desktopImage": "https://data.decoassets.com/frigidaire-es/d03b3051-ce14-43c9-b59f-73fae14c588d/Elgallomas-gallologo.svg",
+          "mobileImage": "https://data.decoassets.com/frigidaire-es/d03b3051-ce14-43c9-b59f-73fae14c588d/Elgallomas-gallologo.svg"
+        },
+        {
+          "title": "Elektra",
+          "description": "Store website",
+          "href": "https://www.elektra.com.hn/frigidaire?_q=frigidaire&map=ft",
+          "disableBorder": true,
+          "desktopImage": "https://data.decoassets.com/frigidaire-es/8f2b8a04-239f-43e3-86a9-dda14bd21d5c/Store-logo-(3).png",
+          "mobileImage": "https://data.decoassets.com/frigidaire-es/8f2b8a04-239f-43e3-86a9-dda14bd21d5c/Store-logo-(3).png"
+        },
+        {
+          "title": "La Curacao",
+          "description": "Store Website",
+          "href": "https://www.lacuracaonline.com/honduras/?cid=sem:sem:hn:lco:per:sem:18132248853_156979227489_748532169293:oct:rgn&gad_source=1&gad_campaignid=18132248853&gbraid=0AAAAAC2TA1sDlW3MMxQyjpSlBOiXk-_lI&gclid=Cj0KCQjwrPHABhCIARIsAFW2XBP46_UQ-IT21xaBUIY8sIYsXXA8NP9YLCiwK4jsXxG878P45eZ9zfsaAneKEALw_wcB",
+          "desktopImage": "https://assets.decocache.com/frigidaire-es/f777da68-5ccd-403e-9960-add2a8b3e785/honduras---la-curacao.png",
+          "mobileImage": "https://assets.decocache.com/frigidaire-es/f777da68-5ccd-403e-9960-add2a8b3e785/honduras---la-curacao.png"
+        }
+      ],
+      "label": "Honduras",
+      "id": "honduras"
+    },
+    {
+      "icon": "nicaragua-frigidaire",
+      "countryStores": [
+        {
+          "title": "La Curacao",
+          "description": "Store website",
+          "href": "https://www.lacuracaonline.com/nicaragua/search/frigidaire",
+          "disableBorder": true,
+          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-nola-us/14cdbc73-11e3-480e-a943-a25872f7a4b1/Store-logo.png",
+          "desktopImage": "https://data.decoassets.com/frigidaire-es/4c95bf73-22c1-4b92-b1a9-06b41ba8737d/Logo-(16).png",
+          "mobileImage": "https://data.decoassets.com/frigidaire-es/66336bf0-fe55-44e2-97eb-79ca314bad97/Logo-(16).png"
+        },
+        {
+          "title": "Copasa",
+          "description": "Store website",
+          "href": "https://www.copasa.com.ni/Search/Search?pageIndex=1&keywords=Frigidaire",
+          "disableBorder": true,
+          "desktopImage": "https://data.decoassets.com/frigidaire-es/265524ed-bc5f-49c8-95d8-91ae5429f3ed/Copasalogo.png",
+          "mobileImage": "https://data.decoassets.com/frigidaire-es/265524ed-bc5f-49c8-95d8-91ae5429f3ed/Copasalogo.png"
+        },
+        {
+          "title": "El gallo mas gallo",
+          "description": "Store website",
+          "href": "https://www.elgallomasgallo.com.ni/catalogsearch/result/?q=frigidaire",
+          "disableBorder": true,
+          "mobileImage": "https://data.decoassets.com/frigidaire-es/d03b3051-ce14-43c9-b59f-73fae14c588d/Elgallomas-gallologo.svg",
+          "desktopImage": "https://data.decoassets.com/frigidaire-es/d03b3051-ce14-43c9-b59f-73fae14c588d/Elgallomas-gallologo.svg"
+        }
+      ],
+      "label": "Nicaragua",
+      "id": "nicaragua"
+    },
+    {
+      "icon": "panama-frigidaire",
+      "countryStores": [
+        {
+          "title": "Panafoto",
+          "description": "Store website",
+          "href": "https://www.panafoto.com/catalogsearch/result/?q=frigidaire",
+          "disableBorder": true,
+          "desktopImage": "https://data.decoassets.com/frigidaire-es/9030dca4-11bb-4aa6-bf4a-1fdc5ca01b49/Logopanafoto.png",
+          "mobileImage": "https://data.decoassets.com/frigidaire-es/9030dca4-11bb-4aa6-bf4a-1fdc5ca01b49/Logopanafoto.png"
+        },
+        {
+          "title": "Do it center",
+          "description": "Store website",
+          "href": "https://www.doitcenter.com.pa/search?q=frigidaire",
+          "desktopImage": "https://data.decoassets.com/frigidaire-es/03333f9d-fb04-4cbc-8ccc-8012448d169f/LOGO-(12).png",
+          "mobileImage": "https://data.decoassets.com/frigidaire-es/5bf4509a-b0bc-486a-b965-464c790dab82/LOGO-(12).png",
+          "disableBorder": true
+        },
+        {
+          "title": "Rosh Marketing",
+          "description": "Store website",
+          "href": "https://roshmarketingja.com/search?type=product&q=frigidaire",
+          "disableBorder": true,
+          "desktopImage": "https://data.decoassets.com/frigidaire-es/702b6a28-6237-47dd-a6c8-b270aeb08b49/LOGO-(13).png",
+          "mobileImage": "https://data.decoassets.com/frigidaire-es/55aadf66-ce57-458f-b155-cb8a868ded5b/LOGO-(13).png"
+        },
+        {
+          "title": "Rodelag",
+          "description": "Store website",
+          "href": "https://rodelag.com/search?type=product&q=frigidaire*",
+          "disableBorder": true,
+          "mobileImage": "https://data.decoassets.com/frigidaire-es/374e73fe-0ec7-46fd-8a4d-0fc444ddca1c/LOGO-(14).png",
+          "desktopImage": "https://data.decoassets.com/frigidaire-es/82ffb0f1-7183-415d-8535-fb8b99fcfe6b/LOGO-(14).png"
+        },
+        {
+          "title": "Tech & House",
+          "description": "Store website",
+          "href": "https://www.techandhouse.com/#f0ac/embedded/m=and&q=frigidaire",
+          "disableBorder": true,
+          "desktopImage": "https://data.decoassets.com/frigidaire-es/4a330294-e48c-4319-982f-42625d2695ae/LOGO-(15).png",
+          "mobileImage": "https://data.decoassets.com/frigidaire-es/73322a6d-84c5-4576-b537-dc74c393ba1c/LOGO-(15).png"
+        },
+        {
+          "title": "Unica",
+          "description": "Store website",
+          "href": "https://unicapanama.com/search?q=frigidaire*",
+          "disableBorder": true,
+          "desktopImage": "https://data.decoassets.com/frigidaire-es/024f3e74-f12c-4fdb-9d45-1b1dcebd8d70/unica.png",
+          "mobileImage": "https://data.decoassets.com/frigidaire-es/3f86bbc6-6d72-471a-b35e-1cb52113fed0/unica.png"
+        },
+        {
+          "title": "La Cuisine Appliances",
+          "href": "https://lacuisinepanama.com/collections/vendors?q=frigidaire",
+          "description": "Store website",
+          "disableBorder": true,
+          "desktopImage": "https://data.decoassets.com/frigidaire-es/25da7f29-9dc3-433a-9b53-51d6d1da86ee/La-cuisine.png",
+          "mobileImage": "https://data.decoassets.com/frigidaire-es/20b5da55-2eda-4ec5-b67c-eae8be909583/La-cuisine.png"
+        },
+        {
+          "href": "https://www.novey.com.pa/catalogsearch/result/?q=Frigidaire",
+          "title": "Novey",
+          "description": "Store website",
+          "desktopImage": "https://data.decoassets.com/frigidaire-es/d2284608-fa46-49b8-96d9-19a3d964a675/Novey.png",
+          "mobileImage": "https://data.decoassets.com/frigidaire-es/5d51e81b-9a79-425c-9153-ec4f9f34ec02/Novey.png",
+          "disableBorder": true
+        }
+      ],
+      "label": "Panamá",
+      "id": "panama"
+    },
+    {
+      "icon": "mexico-flag",
+      "countryStores": [
+        {
+          "desktopImage": "https://assets.decocache.com/frigidaire-es/93f212ba-8050-43e0-ad0f-c9d5791309e2/32.png",
+          "mobileImage": "https://assets.decocache.com/frigidaire-es/93f212ba-8050-43e0-ad0f-c9d5791309e2/32.png",
+          "title": "El Palacio de Hierro",
+          "description": "Store website",
+          "href": "https://www.elpalaciodehierro.com/buscar?q=frigidaire"
+        },
+        {
+          "title": "Liverpool",
+          "description": "Store website",
+          "href": "https://www.liverpool.com.mx/tienda?s=frigidaire",
+          "desktopImage": "https://assets.decocache.com/frigidaire-es/51b33cf5-9c1c-4d6a-9683-7949c0f1c04b/33.png",
+          "mobileImage": "https://assets.decocache.com/frigidaire-es/51b33cf5-9c1c-4d6a-9683-7949c0f1c04b/33.png"
+        }
+      ],
+      "label": "México",
+      "id": "mexico"
+    },
+    {
+      "countryStores": [],
+      "label": "Jamaica",
+      "id": "jamaica",
+      "icon": "jamaica-flag"
+    },
+    {
+      "icon": "trinidad-and-tobago-flag",
+      "countryStores": [],
+      "label": "Trinidad y Tobago",
+      "id": "trindad-y-tobago"
+    }
+  ]
+}

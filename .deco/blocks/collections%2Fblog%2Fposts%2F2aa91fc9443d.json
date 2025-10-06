@@ -1,0 +1,33 @@
+{
+  "name": "collections/blog/posts/2aa91fc9443d",
+  "__resolveType": "blog/loaders/Blogpost.ts",
+  "post": {
+    "authors": [],
+    "categories": [
+      {
+        "name": "Category",
+        "slug": "category"
+      }
+    ],
+    "imageCarousel": {
+      "banners": []
+    },
+    "extraProps": [],
+    "aggregateRating": {
+      "@type": "AggregateRating"
+    },
+    "review": [],
+    "contentRating": [],
+    "interactionStatistic": {
+      "@type": "InteractionCounter",
+      "video": null,
+      "image": null
+    },
+    "slug": "first-post-test",
+    "date": "2024-10-01",
+    "title": "First Post",
+    "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-nola-es/6490e63c-8523-46ea-8155-e88707e36f0c/112cb1543d76434556f88af998f524ee.png",
+    "content": "<p><span>Lorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elit</span></p>"
+  }
+}

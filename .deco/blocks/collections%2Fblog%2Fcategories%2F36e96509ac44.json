@@ -1,0 +1,8 @@
+{
+  "name": "collections/blog/categories/36e96509ac44",
+  "__resolveType": "blog/loaders/Category.ts",
+  "category": {
+    "name": "Other Category",
+    "slug": "other-category"
+  }
+}

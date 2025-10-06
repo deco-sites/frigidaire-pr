@@ -1,0 +1,10 @@
+{
+  "__resolveType": "elux-components-app/actions/product/categories/updateProductCategories.ts",
+  "categories": [
+    {
+      "subjectOf": "congeladores---Congeladores---3"
+    }
+  ],
+  "password": "frigidaire",
+  "sku": "EFCC32C5HQW"
+}

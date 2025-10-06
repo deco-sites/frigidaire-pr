@@ -1,0 +1,2042 @@
+{
+  "path": "/Venta-de-partes",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Seo/SeoV2.tsx",
+      "titleTemplate": "Soporte y Servicio Técnico"
+    },
+    {
+      "__resolveType": "Header"
+    },
+    {
+      "__resolveType": "elux-components-app/sections/Content/Breadcrumb.tsx",
+      "icon": "home-frigidaire",
+      "iconSize": 16,
+      "fontColor": "primary",
+      "fontSize": "text-xs",
+      "items": [
+        {
+          "label": "Asistencia Técnica"
+        }
+      ],
+      "spacing": {
+        "desktop": {
+          "top": {
+            "behavior": "split",
+            "size": "extra-small"
+          },
+          "bottom": {
+            "behavior": "split",
+            "size": "none"
+          }
+        },
+        "mobile": {
+          "top": {
+            "behavior": "split",
+            "size": "extra-small"
+          }
+        }
+      }
+    },
+    {
+      "__resolveType": "website/flags/multivariate/section.ts",
+      "variants": [
+        {
+          "value": {
+            "__resolveType": "elux-components-app/sections/Institutional/Support.tsx",
+            "title": {
+              "text": "Venta de partes Frigidaire",
+              "fontColor": "primary",
+              "fontSize": "text-2.5xl",
+              "fontWeight": "font-semibold"
+            },
+            "description": {
+              "text": "Ponte en contacto con nuestro servicio técnico Frigidaire",
+              "fontColor": "secondary",
+              "fontSize": "text-sm",
+              "fontWeight": "font-light"
+            },
+            "cardsStyling": {
+              "icons": {
+                "iconSize": 18,
+                "iconColor": "primary"
+              },
+              "text": {
+                "fontColor": "secondary",
+                "fontSize": "text-sm"
+              },
+              "grid": "3",
+              "gap": "5"
+            },
+            "spacing": {
+              "desktop": {
+                "top": {
+                  "behavior": "split",
+                  "size": "small"
+                },
+                "bottom": {
+                  "behavior": "split",
+                  "size": "half-extra-small"
+                }
+              },
+              "mobile": {
+                "top": {
+                  "behavior": "split",
+                  "size": "extra-large"
+                },
+                "bottom": {
+                  "behavior": "split",
+                  "size": "half-extra-small"
+                }
+              }
+            },
+            "cards": [
+              {
+                "cardItems": [
+                  {
+                    "label": "COREACSA SOLUTIONS S.A. - ATTN: Eric Ordenez Ruta 6 Via 4, 5-82, Zona 4 Guatemala, Guatemala",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 502-2331-2785"
+                  },
+                  {
+                    "label": "DISTRIBUIDORA ELECTRONICA S.A - ATT: Rosa Alejandra Franco Mura 1A. Calle, 7-66, Zona 9, 8VO n Edificio Plaza Uno, Guatemala, Guatemala - NIT 97976-7A",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "1+ 502 2419888888"
+                  },
+                  {
+                    "label": "GEOTELEMATICA DE CA, S.A. - ATT: Wendy Romero 7 Ave 15-51, Zona 9 Guatemala, Guatemala",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "502-2332-9250"
+                  },
+                  {
+                    "label": "TALLER ELECTRIO FRIO - ATT: Dibaldo Efrain Sis Ccruz 4Ta Ave 0-28, San Miguel Duenas, Guatemala, Guatemala",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "(502) 3022-5921       "
+                  },
+                  {
+                    "label": "VIVENDO, S.A. - ATT: Kevin Godoy Ave. Hincapie 16-35 Zona 13 P.O.B. No. 924 Guatemala City, Guatemala",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "502-2322-0000"
+                  }
+                ],
+                "title": "Guatemala"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "COURTS ANTIGUA, LTD. - ATTN: Alicia Allen Smith Vivian Richards Street St. John’s, Antigua",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 268 462 1640 "
+                  }
+                ],
+                "title": "Antigua"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "CONFORTMAX SALES & SERVICE - ATT: Charles Pietersz Rockefellerstraat 1, Suite 6 Oranjestad, Aruba 0000",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+297 280 9828 "
+                  },
+                  {
+                    "label": "UNICOMER ARUBA - ATT: Pedro Franken Caya Papa Juan Pablo 121 Tomatenstraat 3 Oranjestad, Aruba",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "297-521-1126    ",
+                    "href": "297-521-1126"
+                  }
+                ],
+                "title": "Aruba"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "MULTI-DISCOUNT FURNITURE WHSE. - ATTN: William Sands Collins Ave. Nassaw, Bahamas",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "1 242 325 2380   "
+                  }
+                ],
+                "title": "Bahamas"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "STANDARD DISTRIBUTION AND SALES (BARBADOS) LIMITED ATT: Trudy McCollin P.O. Box 148 Tudor Street Bridgetown, Barbados, W.I",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "246-430-7034   "
+                  },
+                  {
+                    "label": "UNICOMER (BARBADOS) LTD. ATTN: Sophia Tulloch George Street Bridgetown, Barbados",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 246 431 8008"
+                  }
+                ],
+                "title": "Barbados"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "APPLIANCE WORLD LTD. - ATTN: Pierre Bou-Nahra 1 - 1/2 Miles Western HWY Belize City, Belize",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 501 223 5348   "
+                  },
+                  {
+                    "label": "BARGAINS EXPORT CORP - ATT: Sandeep Thadani 55 SE 6TH Street APT 3103 Miami, FL 33131",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+501 610 1500 "
+                  },
+                  {
+                    "label": "LP GAS & SUPPLIES - ATT: Eric Aguilar Center Road, Spanish Lookout Belize City, Belize",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "501-823-0304"
+                  },
+                  {
+                    "label": "UNICOMER (BELIZE) LTD - ATTN: Adrian Carrillo 1-1/2 Phillip Goldson Highway Belize City, Belize",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 501-610-2174"
+                  }
+                ],
+                "title": "Belize"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "THE MARKET PLACE LTD - ATT: Eddie Julio Sears Home Town P.O. Box HM167 Hamilton, Bermuda - HMGX",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "441 555 5555"
+                  }
+                ],
+                "title": "Bermuda"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "TRIPLEX LTDA - ATTN: Rafael Deheza Ave. Argamoza NRO. 134 Santa Cruz, Bolívia",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 591 33 360 072"
+                  }
+                ],
+                "title": "Bolívia"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "CITY SHOP N.V. - ATTN: Mr. M. Daboussi Kaya International #36 Kralendijk, Bonaire, N.A.",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 599 717 3666"
+                  }
+                ],
+                "title": "Bonaire"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "A.L. THOMPSON’S - ATT: Chrystal Edwards 189 North Sound Rd. P.O. Box 10292 George Town, KY1-1003 Cayman Islands",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "345-949-8622"
+                  },
+                  {
+                    "label": "WIRL TRADING - ATTN: Everard Leacock 209 Dorcy Drive, Industrial PA Grand Cayman, Cayman Island",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 345 264 1466"
+                  }
+                ],
+                "title": "Cayman Islands"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "POLYTRONICA N.V. - ATTN: Jack Khemani Schottegatweg OOST 14 Curacao Netherland Antilles",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "label": "+1 599 9 736 3031",
+                    "icon": "headset-frigidaire"
+                  }
+                ],
+                "title": "Curacao"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "COM.HERENCIA ECOLOGICA JT S.A - ATTN: Johnny Hidalgo 150 MTS Este De La Cruz Roja Santo Domingo, Heredia, Costa Rica",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 506 244 6325"
+                  },
+                  {
+                    "label": "DAFESA - ATT: Giovana Montano De La Rotonda De Las Garantías Sociales 500 Este 100 Sur, San Jose, Costa Rica",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1-506-253-1000  "
+                  },
+                  {
+                    "label": "DMELUNA PARTS S.A. - ATT: Luis Jimenez Barrantes 75 Norte Pali Tuasa, Frente a Tienda \"Toda a Mil\" Alajuela, Centro, Costa Rica",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "50624305129"
+                  },
+                  {
+                    "label": "GRUPO TECNITICOS SRL - ATT: Marco Sanchez Lagunilla De RTV 300 Este Bodegas Aki KB Bodega #1010, Heredia, Costa Rica",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "50640338913"
+                  },
+                  {
+                    "label": "INV. Y DESARROLLOS COIN S.A. - ATTN: Maria Antonieta Porras 300 Metros Sur De La Escuela Brasil De Mora, San Jose, Costa Rica",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 506 2249 4690"
+                  },
+                  {
+                    "label": "JOHAN CARRANZA MENA REPUESTOS CARTAGO - Cartago, El Guarco Palmital Norte 200 MTS Sur, Bodega Verde, San Jose, Costa Rica",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "label": "NEO REPUESTOS Y SERVICIOS SRL - ATTN: Ana Masis Abarca Colima, Tibás, 75 MTS Sur y 75 Oeste Del Pali, San Jose, Costa Rica",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 506 2235 4744"
+                  },
+                  {
+                    "label": "SERVIREPUESTOS MASIS S.A. - ATT: Elias Olivas 350 N Del Automercado Heredia En Santa Lucia Barva, Local Azul Con Blanco a Mano Derecha, Heredia, Costa Rica",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+506 6008 2695"
+                  },
+                  {
+                    "label": "SOLUCIONES TECNICAS VAWAU S.A. - ATT: Marco Sanchez Zeledon 315 MTS Este Del Banco Costa Rica Local Rotulado a Mano ISQ Guanacaste, Liberi, Costa Rica",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "506-2665-8938"
+                  }
+                ],
+                "title": "Costa Rica"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "POLYTRONICA N.V. - ATTN: Jack Khemani Schottegatweg OOST 14 Curacao Netherland Antilles",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "label": "+1 599 9 736 3031",
+                    "icon": "headset-frigidaire"
+                  }
+                ],
+                "title": "Dominica"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "GEOTELEMATICA DE CA, SA DE CV - ATT: Jessica Curumaco Calle La Mazcota Y 79 Ave Sur Comerical Las Plasas Local 1, San Salvador, El Salvador",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "503-2263-2655   "
+                  },
+                  {
+                    "label": "UNICOMER DE EL SALVADOR - ATTN: Sara Gamero Avenida Espana #620 Entre 9NA Y 11 Calle Oeste, San Salvador, El Salvador",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 503 2231 7000"
+                  }
+                ],
+                "title": "El Salvador"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "GRENADA(GRENADA) LTD - ATTN: Joel Francois Maurice Bishop Highway St. George’s, Grenada",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 473 439 1271"
+                  }
+                ],
+                "title": "Grenada"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "UNICOMER (GUYANA) INC. - ATTN: Deon Fullington 25/26 Main Street Georgetown, Guyana",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 592-225-5886"
+                  }
+                ],
+                "title": "Guyana"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "ALMACENES LADY LEE S.A.DE C.V. - ATTN: Jessy Tabora Oficinas Corporacion Lady Lee KM3 Salida a La Lima, Ivisa San Pedro De Sula, Honduras",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+_1 504-2580-6072      "
+                  },
+                  {
+                    "label": "ISIDRO A. FLORES REFRIGERACION - ATTN: Luis Castro Garcia 5 Calle 1-2 Ave NE #107 Barandillas, San Pedro de Sula, Honduras",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 504-2557 2109  "
+                  },
+                  {
+                    "label": "JETSTEREO, S.A. DE C.V. - ATTN: Bivian Indira Cruz Boulevard Morazan Detras De La De Jetstereo, Tegucigalpa M.D.C., Honduras",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 504 9570 1082"
+                  },
+                  {
+                    "label": "TALLER ELECTRIO FRIOREPUESTOS Y SERVICIOS TÉCNICOS (RESET S DE RL) - ATT: Ana Amaya Edificio Italia, Primer Nivel, Barrio Guadalupe,Tegucigalpa, Honduras",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "(504) 33921628      "
+                  },
+                  {
+                    "label": "UNICOMER DE HONDURAS SA DE CV - ATT: Melisa Espinal Blvd. Suyapa Contguo A. Televicentro, Servitotal, Tegucigalpa, Honduras",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 504-23-8414"
+                  }
+                ],
+                "title": "Honduras"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "ACTIVE TRADERS LIMITED - ATT: Christopher Graham 84 Constant Spring Road, Kingston 10, Jamaica",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 876 755 0027 "
+                  },
+                  {
+                    "label": "APPLIANCE TRADERS LIMITED - ATTN: Michael Cooper 35 Half Way Tree Road, Kingston, Jamaica",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "label": "+1 876-926- 3370 ",
+                    "icon": "headset-frigidaire"
+                  },
+                  {
+                    "label": "SINGER JAMAICA LIMITED - ATT: Shari Johnson 4th Floor PCJ Building 36 Trafalgar Road, Kingston 10, Jamaica WI",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "876-926-3567"
+                  },
+                  {
+                    "label": "UNICOMER (COURTS) JAMAICA LTD. - ATTN: Candi Rampallard 79-81A Slipe Road, Kingston, Jamaica",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "label": "+1 876-926 2110",
+                    "icon": "headset-frigidaire"
+                  }
+                ],
+                "title": "Jamaica"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "ERO INTERNACIONAL, SA DE CV - ATT: Ramiro Perez El Zapote 1870 El Tigre 45134 Zapopan, Jalisco",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "52 (33) 36331024"
+                  },
+                  {
+                    "label": "GRUPO REDHOGAR, SA DE CV - ATT: Jose De Jesus Garcia Volcan Villarica 5545 Huentitanel Bajio 4425 Guadalajara, Jalisco",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "(33) 3698 6003"
+                  },
+                  {
+                    "label": "MASSPARTES, S.A. DE C.V. - ATT: Oralia Estrada Reforma Ote #256 Altos Centro Monterrey, Nuevo Leon Mexico 64000",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "82-818-372-6220"
+                  },
+                  {
+                    "label": "MENDEZ OLGUIN JOSE DANIEL - Av. Adolfo Lopes Mateos No 23 Col. Lomas de Santa Cruz Naucalpan de Jarez, Edo de Mex Mexico CP 53120",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "52 5550492031"
+                  },
+                  {
+                    "label": "REFACCIONES LUCHICHI SA DE CV - ATT: Nancy Muñoz Articulo 123 No.73-2 Col. Centro, Cuauhtemoc Mexico DF. 06050",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "label": "5555100909",
+                    "icon": "headset-frigidaire"
+                  },
+                  {
+                    "label": "REFACCIONES MERETI, SA DE CV - ATT: Esteban Gonzalez Luis Spota 64 PB San Simon Ticumac 03660 Benito Juares, Cd De Mexico",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "55 5532 3605"
+                  },
+                  {
+                    "label": "ROSAN INT. SC DE RL DE CV - Tilos #112 L4 - ATT: Claudia Tovar Santa Maria Insurgentes Cuauhtemoc 06430 Ciudad de Mexico, Mexico",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "52 55 5558-0666"
+                  }
+                ],
+                "title": "Mexico"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "COMERCIALIZADORA PANAMERICANA - ATTN: Mauricio Castillo Del Hospital Bautista, 1-1/2 Cuadra Aabajo, Managua, Nicaragua",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "label": "+1 505 8893 9072",
+                    "icon": "headset-frigidaire"
+                  },
+                  {
+                    "label": "UNION COMERCIAL DENICARAGUA SA - ATT: Dennis Espinoza Puente a Desnivel Portezuelo 800 MTS Al Sure, Managua, Nicaragua",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1-505-2255-8191"
+                  }
+                ],
+                "title": "Nicaragua"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "ACE INTERNATIONAL DO IT CENTER - ATTN: Edwin Gonzalez Calle Niguel Brostella, Panama City, Panama",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 507 302 0480"
+                  },
+                  {
+                    "label": "CENTRAL AMERICA APPLIANCE - ATT: Michelle Stanziola Distributors, Corp Ave. Samule Lewis, Local #11 Addison House Plaza, Obarrio Panama City, Panama",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "507-265-2546"
+                  },
+                  {
+                    "label": "CLIMATIZADORA EPA AIRE S.A. - ATT: Boris Esteban Cruz Castro Via Espana Rio Abajo Calle Principal, Ave 18 Norte, Ciudad De Panama, Panama",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "507-388-3821 "
+                  },
+                  {
+                    "label": "EGS GLOBAL CONSULTING INC. - ATT: Angel Escala Brisas Del Golf 6th St. Occident, House 204BO Panama, Panama",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "507-6868-0436 "
+                  },
+                  {
+                    "label": "ELECTROTODO AMERICA S.A. - ATT: Sami Fattal Plaza 75 Lefebre Via Espana y Calle 97 Este Cd. De Panama, Panama",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "58414302229"
+                  },
+                  {
+                    "label": "K&S PARTS INC. S.A. ATT: Pawan Godhwani Calle 2, Avenida Melendez CAS 382, Colon, Panama",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "507-6612-4934"
+                  },
+                  {
+                    "label": "REFRIPARTS & SERVICE PANAMA - ATTN: Cesar Silva Ramos Calle Urraca 1, Local E48 San Antonio, Panama",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 507 387 2277"
+                  },
+                  {
+                    "label": "TECH & HOUSE - ATTN: Rajesh Sadhwani Edif. Tech and House Via Brasi, Panama City, Panama",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 507 263 9611"
+                  }
+                ],
+                "title": "Panama"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "CHACOMER S.A.E. - ATT: Frank Walde Avda. Eusebio Ayala 3321 Casi RCA. Argentina Asuncion, Central, Paraguay",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "595-21-518-0000"
+                  }
+                ],
+                "title": "Paraguay"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "BACCESSORY IMPORT SRL - ATT: Moises Vargas Ave, Kioe De Vega No. 37 Naco, Santo Domingo, Republica Dominicana",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "809-540-2927 EXT. 243"
+                  },
+                  {
+                    "label": "CRIS TECHNICAL SERVICE SRL - ATTN: Criselmi Alcantara Bonil CR Carlos Hernandez No. 70 A San Jeronimo, Republica Dominicana",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 809 876-1094 "
+                  },
+                  {
+                    "label": "DISTRIBUIDORA CORRIPIO S.A.S - ATTN: Mayra Cruz Ave. Nunez De Caceres Esquina Calle 1 San Geronimo Santo Domingo, Republica Dominicana",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 809-227-3200 "
+                  },
+                  {
+                    "label": "GARANTEC S.R.L. - Carretera Duarte Vieja No. 104 Esq. Jose Arias, Las Palmas De Herrera, Santo Domingo Oeste, Dominican Republic",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "label": "LA CUISINE APPLIANCE RD - Rafael Augusto Sanchez #22 Edif. Don Roberto, APTO 201 Ensanche Piantini, Santo Domingo, Dominican Republic",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "809.959.0403 "
+                  },
+                  {
+                    "label": "MOLINA - ATTN: Juan Molina Ave. Duarte 350, Ens. Luperon Santo Domingo, Dominican Republic",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 809 684 5441 "
+                  },
+                  {
+                    "label": "REFRIGERACION GARCIA - ATTN: Aridio Garcia Tineo Calle Tomas De La Concha 8 Santo Domingo, Dominican Republic",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 809 687 8248  "
+                  }
+                ],
+                "title": "Republica Dominicana"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "APPLIANCE PARTS IMPORTS, INC - ATT: Juan Carlos Figueroa GQ-11 Campo Rico Ave. Carolina, PR 00982",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "(787) 757-0400"
+                  }
+                ],
+                "title": "Puerto Rico"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "J.BENTON CONSTRUCTION LLC - ATT: Chris Ferreras 3000 Orange Grove, Christiansted, St. Croix, Virgin Islands 00820",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "340-718-7222 "
+                  },
+                  {
+                    "label": "ROYAL FURNITURE - ATTN: Wajeeh Abdallah 7B Peter’s Rest Chrstiansted, St. Croix U.S. Virgin Islands 00820",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": " +1 340 773 3290  "
+                  }
+                ],
+                "title": "St. Croix"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "JAPER ELECTRONICS INC. - ATT: Luis Marsano 12528 Kirkham Road Suite 3 Poway, CA 92064",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "858-486-7266"
+                  }
+                ],
+                "title": "Peru"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "COURTS ST. KITTS/NEVIS - ATTN: Sophia Tullock Bay Road - P.O. Box 1088 Basseterre, St. Kitts, Netherland Antilles",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 869-466-1640 "
+                  }
+                ],
+                "title": "St. Kitts"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "COURTS ST. LUCIA LTD. - ATTN: Bianca Joseph Marisule Castries, St. Lucia",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 758-457-8206"
+                  }
+                ],
+                "title": "St. Lucia"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "C.D. VEIRA LTD. - ATT: Ian Veira Halifax Street Kingstown, St. Vincent",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "784-493-9009"
+                  },
+                  {
+                    "label": "UNICOMER ST. VINCENT LTD. - ATTN: Joselle Roberts Bay Street, Kingstown St. Vincent & The Grenadines",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 784 456 1325"
+                  }
+                ],
+                "title": "St. Vincent"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "CHM SURINAME N.V. - ATTN: Kasimbeg Edmund Dr Sophie Redmondstraat 2-14 Paramaribo, Suriname",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 597 884 8445"
+                  },
+                  {
+                    "label": "HOME SHOPPING & DELIVERY SERV - ATTN: Steven M Yau Magenwegstraat #65 Paramaribo, Suriname",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "label": "+1 597-425-521 ",
+                    "icon": "headset-frigidaire"
+                  },
+                  {
+                    "label": "PROTRADE INTERNATIONAL - ATT: Gail Jaggan Procurement Dept. Of Protrade Kwatta Street #6 Paramaribo, Suriname",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 597-427-114 "
+                  }
+                ],
+                "title": "Suriname"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "FURNITURE PLUS - ATTN: Armil Aleong-Juman Lot #21D, David Blake Street O'Meara Industrial Estate Arima, Trinidad",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 868 675 3373"
+                  },
+                  {
+                    "label": "GRAND PRIX LIMITED - ATTN: David Giboon #5 FWC Commercial Center Mission Road Freeport, Trinidad",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 868 673 7373  "
+                  },
+                  {
+                    "label": "PARTS WORLD LIMITED - ATTN: Sheldon Mungroo 155 A Eastern Main Road Barataria, Trinidad",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 868 638 2570 "
+                  },
+                  {
+                    "label": "RELIABLE APPLIANCE PARTS & SER - ATTN: amon Moreno 161 Western Main Road St. James, Trinidad West Indies",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "label": "+1 868-675-0069  ",
+                    "icon": "headset-frigidaire"
+                  },
+                  {
+                    "label": "STANDARD DISTRIBUTORS LIMITED - ATTN: Standards Purchasing Ansa Mcal Center, Guardian BLG 2dn Floor, Edeavour Road Chaguanas, Trinidad, W.I.",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "label": "+1 868-299-0219",
+                    "icon": "headset-frigidaire"
+                  },
+                  {
+                    "label": "UNICOMER TRINIDAD LTD - ATTN: Leon Richards #1 Calcutta Road Calcutta Freeport, Trinidad",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "label": "+1 868 672-7577",
+                    "icon": "headset-frigidaire"
+                  }
+                ],
+                "title": "Trinidad"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "AON INTERNATIONAL INC - ATTN: Adam Ahmad 8901 NW 35 Lane, Suite 201 Miami, FL 33172",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "305 36 5000"
+                  },
+                  {
+                    "label": "APPLIANCE PARTS SOLUTIONS LCC - ATTN: Anilu La Rosa 50 Biscayne Blvd. Suite 2703 Miami, FL 33132",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "786-616-6184"
+                  },
+                  {
+                    "label": "COLCUMI DBA/GARCIA - ATTN: Jose Alvarez 4599 NW 77th Avenue Miami, FL 33167",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "305 594 6666"
+                  },
+                  {
+                    "label": "D. BEN-TOBY, INC. - ATTN: Anthony Azan 8307 N.W. 54th Street Miami, FL 33166",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "305 463 8980"
+                  },
+                  {
+                    "label": "EA GLOBAL TRADING, INC. DBA/AMEREX - ATTN: Osvaldo Melendez 1810 NW 94th Avenue Miami, FL 33172",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "305-717-3317"
+                  },
+                  {
+                    "label": "IPA EXPORT INC. - ATT: Heico Thorn 3770 SW 30th Avenue FT. Lauderdale, FL 3312-6701",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "label": "954-581-6620 ",
+                    "icon": "headset-frigidaire"
+                  },
+                  {
+                    "label": "TIBBETTS INTERNATIONAL LLC - ATT: Keith Mahan 3300 Fairfield Avenue S St. Petersburg, FL 33712",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "label": "345-943-5055",
+                    "icon": "headset-frigidaire"
+                  }
+                ],
+                "title": "USA"
+              }
+            ]
+          },
+          "rule": {
+            "__resolveType": "Mobile"
+          }
+        },
+        {
+          "value": {
+            "__resolveType": "elux-components-app/sections/Institutional/Support.tsx",
+            "title": {
+              "text": "Venta de partes Frigidaire",
+              "fontColor": "primary",
+              "fontSize": "text-4xl",
+              "fontWeight": "font-semibold"
+            },
+            "description": {
+              "text": "Ponte en contacto con nuestro servicio técnico Frigidaire ",
+              "fontColor": "secondary",
+              "fontSize": "text-xxs",
+              "fontWeight": "font-light"
+            },
+            "cardsStyling": {
+              "icons": {
+                "iconSize": 24,
+                "iconColor": "primary"
+              },
+              "text": {
+                "fontColor": "secondary",
+                "fontSize": "text-base"
+              },
+              "grid": "1",
+              "gap": "5"
+            },
+            "spacing": {
+              "desktop": {
+                "top": {
+                  "behavior": "split",
+                  "size": "small"
+                },
+                "bottom": {
+                  "behavior": "split",
+                  "size": "half-extra-small"
+                }
+              },
+              "mobile": {
+                "top": {
+                  "behavior": "split",
+                  "size": "extra-large"
+                },
+                "bottom": {
+                  "behavior": "split",
+                  "size": "half-extra-small"
+                }
+              }
+            },
+            "cards": [
+              {
+                "cardItems": [
+                  {
+                    "label": "COREACSA SOLUTIONS S.A. - ATTN: Eric Ordenez Ruta 6 Via 4, 5-82, Zona 4 Guatemala, Guatemala",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 502-2331-2785"
+                  },
+                  {},
+                  {
+                    "label": "DISTRIBUIDORA ELECTRONICA S.A - ATT: Rosa Alejandra Franco Mura 1A. Calle, 7-66, Zona 9, 8VO n Edificio Plaza Uno, Guatemala, Guatemala - NIT 97976-7A",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "1+ 502 2419888888"
+                  },
+                  {},
+                  {
+                    "label": "GEOTELEMATICA DE CA, S.A. - ATT: Wendy Romero 7 Ave 15-51, Zona 9 Guatemala, Guatemala",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "502-2332-9250"
+                  },
+                  {},
+                  {
+                    "label": "TALLER ELECTRIO FRIO - ATT: Dibaldo Efrain Sis Ccruz 4Ta Ave 0-28, San Miguel Duenas, Guatemala, Guatemala",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "(502) 3022-5921       "
+                  },
+                  {},
+                  {
+                    "label": "VIVENDO, S.A. - ATT: Kevin Godoy Ave. Hincapie 16-35 Zona 13 P.O.B. No. 924 Guatemala City, Guatemala",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "502-2322-0000"
+                  }
+                ],
+                "title": "Guatemala"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "COURTS ANTIGUA, LTD. - ATTN: Alicia Allen Smith Vivian Richards Street St. John’s, Antigua",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 268 462 1640 "
+                  }
+                ],
+                "title": "Antigua"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "CONFORTMAX SALES & SERVICE - ATT: Charles Pietersz Rockefellerstraat 1, Suite 6 Oranjestad, Aruba 0000",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+297 280 9828 "
+                  },
+                  {},
+                  {
+                    "icon": "home_pin",
+                    "label": "UNICOMER ARUBA - ATT: Pedro Franken Caya Papa Juan Pablo 121 Tomatenstraat 3 Oranjestad, Aruba"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "297-521-1126    ",
+                    "href": "297-521-1126"
+                  }
+                ],
+                "title": "Aruba"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "MULTI-DISCOUNT FURNITURE WHSE. - ATTN: William Sands Collins Ave. Nassaw, Bahamas",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "label": "1 242 325 2380   ",
+                    "icon": "headset-frigidaire"
+                  }
+                ],
+                "title": "Bahamas"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "STANDARD DISTRIBUTION AND SALES (BARBADOS) LIMITED ATT: Trudy McCollin P.O. Box 148 Tudor Street Bridgetown, Barbados, W.I",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "246-430-7034   "
+                  },
+                  {},
+                  {
+                    "label": "UNICOMER (BARBADOS) LTD. ATTN: Sophia Tulloch George Street Bridgetown, Barbados",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "label": "+1 246 431 8008",
+                    "icon": "headset-frigidaire"
+                  }
+                ],
+                "title": "Barbados"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "APPLIANCE WORLD LTD. - ATTN: Pierre Bou-Nahra 1 - 1/2 Miles Western HWY Belize City, Belize",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 501 223 5348   "
+                  },
+                  {},
+                  {
+                    "label": "BARGAINS EXPORT CORP - ATT: Sandeep Thadani 55 SE 6TH Street APT 3103 Miami, FL 33131",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "label": "+501 610 1500 ",
+                    "icon": "headset-frigidaire"
+                  },
+                  {},
+                  {
+                    "label": "LP GAS & SUPPLIES - ATT: Eric Aguilar Center Road, Spanish Lookout Belize City, Belize",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "label": "501-823-0304",
+                    "icon": "headset-frigidaire"
+                  },
+                  {},
+                  {
+                    "label": "UNICOMER (BELIZE) LTD - ATTN: Adrian Carrillo 1-1/2 Phillip Goldson Highway Belize City, Belize",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 501-610-2174"
+                  }
+                ],
+                "title": "Belize"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "THE MARKET PLACE LTD - ATT: Eddie Julio Sears Home Town P.O. Box HM167 Hamilton, Bermuda - HMGX",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "441 555 5555"
+                  }
+                ],
+                "title": "Bermuda"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "TRIPLEX LTDA - ATTN: Rafael Deheza Ave. Argamoza NRO. 134 Santa Cruz, Bolívia",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 591 33 360 072"
+                  }
+                ],
+                "title": "Bolívia"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "CITY SHOP N.V. - ATTN: Mr. M. Daboussi Kaya International #36 Kralendijk, Bonaire, N.A.",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 599 717 3666"
+                  }
+                ],
+                "title": "Bonaire"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "A.L. THOMPSON’S - ATT: Chrystal Edwards 189 North Sound Rd. P.O. Box 10292 George Town, KY1-1003 Cayman Islands",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "345-949-8622"
+                  },
+                  {},
+                  {
+                    "icon": "home_pin",
+                    "label": "WIRL TRADING - ATTN: Everard Leacock 209 Dorcy Drive, Industrial PA Grand Cayman, Cayman Island"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 345 264 1466"
+                  }
+                ],
+                "title": "Cayman Islands"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "POLYTRONICA N.V. - ATTN: Jack Khemani Schottegatweg OOST 14 Curacao Netherland Antilles",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "label": "+1 599 9 736 3031",
+                    "icon": "headset-frigidaire"
+                  }
+                ],
+                "title": "Curacao"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "COM.HERENCIA ECOLOGICA JT S.A - ATTN: Johnny Hidalgo 150 MTS Este De La Cruz Roja Santo Domingo, Heredia, Costa Rica",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 506 244 6325"
+                  },
+                  {},
+                  {
+                    "icon": "home_pin",
+                    "label": "DAFESA - ATT: Giovana Montano De La Rotonda De Las Garantías Sociales 500 Este 100 Sur, San Jose, Costa Rica"
+                  },
+                  {
+                    "label": "+1-506-253-1000  ",
+                    "icon": "headset-frigidaire"
+                  },
+                  {},
+                  {
+                    "icon": "home_pin",
+                    "label": "DMELUNA PARTS S.A. - ATT: Luis Jimenez Barrantes 75 Norte Pali Tuasa, Frente a Tienda \"Toda a Mil\" Alajuela, Centro, Costa Rica"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "50624305129"
+                  },
+                  {},
+                  {
+                    "icon": "home_pin",
+                    "label": "GRUPO TECNITICOS SRL - ATT: Marco Sanchez Lagunilla De RTV 300 Este Bodegas Aki KB Bodega #1010, Heredia, Costa Rica"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "50640338913"
+                  },
+                  {},
+                  {
+                    "icon": "home_pin",
+                    "label": "INV. Y DESARROLLOS COIN S.A. - ATTN: Maria Antonieta Porras 300 Metros Sur De La Escuela Brasil De Mora, San Jose, Costa Rica"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 506 2249 4690"
+                  },
+                  {},
+                  {
+                    "icon": "home_pin",
+                    "label": "JOHAN CARRANZA MENA REPUESTOS CARTAGO - Cartago, El Guarco Palmital Norte 200 MTS Sur, Bodega Verde, San Jose, Costa Rica"
+                  },
+                  {},
+                  {
+                    "icon": "home_pin",
+                    "label": "NEO REPUESTOS Y SERVICIOS SRL - ATTN: Ana Masis Abarca Colima, Tibás, 75 MTS Sur y 75 Oeste Del Pali, San Jose, Costa Rica"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 506 2235 4744"
+                  },
+                  {},
+                  {
+                    "icon": "home_pin",
+                    "label": "SERVIREPUESTOS MASIS S.A. - ATT: Elias Olivas 350 N Del Automercado Heredia En Santa Lucia Barva, Local Azul Con Blanco a Mano Derecha, Heredia, Costa Rica"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+506 6008 2695"
+                  },
+                  {},
+                  {
+                    "icon": "home_pin",
+                    "label": "SOLUCIONES TECNICAS VAWAU S.A. - ATT: Marco Sanchez Zeledon 315 MTS Este Del Banco Costa Rica Local Rotulado a Mano ISQ Guanacaste, Liberi, Costa Rica"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "506-2665-8938"
+                  }
+                ],
+                "title": "Costa Rica"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "POLYTRONICA N.V. - ATTN: Jack Khemani Schottegatweg OOST 14 Curacao Netherland Antilles",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "label": "+1 599 9 736 3031",
+                    "icon": "headset-frigidaire"
+                  }
+                ],
+                "title": "Dominica"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "GEOTELEMATICA DE CA, SA DE CV - ATT: Jessica Curumaco Calle La Mazcota Y 79 Ave Sur Comerical Las Plasas Local 1, San Salvador, El Salvador",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "503-2263-2655   "
+                  },
+                  {},
+                  {
+                    "label": "UNICOMER DE EL SALVADOR - ATTN: Sara Gamero Avenida Espana #620 Entre 9NA Y 11 Calle Oeste, San Salvador, El Salvador",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 503 2231 7000"
+                  }
+                ],
+                "title": "El Salvador"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "GRENADA(GRENADA) LTD - ATTN: Joel Francois Maurice Bishop Highway St. George’s, Grenada",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 473 439 1271"
+                  }
+                ],
+                "title": "Grenada"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "UNICOMER (GUYANA) INC. - ATTN: Deon Fullington 25/26 Main Street Georgetown, Guyana",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 592-225-5886"
+                  }
+                ],
+                "title": "Guyana"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "ALMACENES LADY LEE S.A.DE C.V. - ATTN: Jessy Tabora Oficinas Corporacion Lady Lee KM3 Salida a La Lima, Ivisa San Pedro De Sula, Honduras",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 504-2580-6072      "
+                  },
+                  {},
+                  {
+                    "label": "ISIDRO A. FLORES REFRIGERACION - ATTN: Luis Castro Garcia 5 Calle 1-2 Ave NE #107 Barandillas, San Pedro de Sula, Honduras",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "label": "+1 504-2557 2109  ",
+                    "icon": "headset-frigidaire"
+                  },
+                  {},
+                  {
+                    "label": "JETSTEREO, S.A. DE C.V. - ATTN: Bivian Indira Cruz Boulevard Morazan Detras De La De Jetstereo, Tegucigalpa M.D.C., Honduras",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "label": "+1 504 9570 1082",
+                    "icon": "headset-frigidaire"
+                  },
+                  {},
+                  {
+                    "label": "TALLER ELECTRIO FRIOREPUESTOS Y SERVICIOS TÉCNICOS (RESET S DE RL) - ATT: Ana Amaya Edificio Italia, Primer Nivel, Barrio Guadalupe,Tegucigalpa, Honduras",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "label": "(504) 33921628      ",
+                    "icon": "headset-frigidaire"
+                  },
+                  {},
+                  {
+                    "label": "UNICOMER DE HONDURAS SA DE CV - ATT: Melisa Espinal Blvd. Suyapa Contguo A. Televicentro, Servitotal, Tegucigalpa, Honduras",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 504-23-8414"
+                  }
+                ],
+                "title": "Honduras"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "ACTIVE TRADERS LIMITED - ATT: Christopher Graham 84 Constant Spring Road, Kingston 10, Jamaica",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 876 755 0027 "
+                  },
+                  {},
+                  {
+                    "label": "SINGER JAMAICA LIMITED - ATT: Shari Johnson 4th Floor PCJ Building 36 Trafalgar Road, Kingston 10, Jamaica WI",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "label": "876-926-3567",
+                    "icon": "headset-frigidaire"
+                  },
+                  {},
+                  {
+                    "label": "APPLIANCE TRADERS LIMITED - ATTN: Michael Cooper 35 Half Way Tree Road, Kingston, Jamaica",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "label": "+1 876-926- 3370 ",
+                    "icon": "headset-frigidaire"
+                  },
+                  {},
+                  {
+                    "label": "UNICOMER (COURTS) JAMAICA LTD. - ATTN: Candi Rampallard 79-81A Slipe Road, Kingston, Jamaica",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 876-926 2110"
+                  }
+                ],
+                "title": "Jamaica"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "ERO INTERNACIONAL, SA DE CV - ATT: Ramiro Perez El Zapote 1870 El Tigre 45134 Zapopan, Jalisco",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "52 (33) 36331024"
+                  },
+                  {},
+                  {
+                    "icon": "home_pin",
+                    "label": "GRUPO REDHOGAR, SA DE CV - ATT: Jose De Jesus Garcia Volcan Villarica 5545 Huentitanel Bajio 4425 Guadalajara, Jalisco"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "(33) 3698 6003"
+                  },
+                  {},
+                  {
+                    "icon": "home_pin",
+                    "label": "MASSPARTES, S.A. DE C.V. - ATT: Oralia Estrada Reforma Ote #256 Altos Centro Monterrey, Nuevo Leon Mexico 64000"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "82-818-372-6220"
+                  },
+                  {},
+                  {
+                    "icon": "home_pin",
+                    "label": "MENDEZ OLGUIN JOSE DANIEL - Av. Adolfo Lopes Mateos No 23 Col. Lomas de Santa Cruz Naucalpan de Jarez, Edo de Mex Mexico CP 53120"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "52 5550492031"
+                  },
+                  {},
+                  {
+                    "icon": "home_pin",
+                    "label": "REFACCIONES LUCHICHI SA DE CV - ATT: Nancy Muñoz Articulo 123 No.73-2 Col. Centro, Cuauhtemoc Mexico DF. 06050"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "5555100909"
+                  },
+                  {},
+                  {
+                    "icon": "home_pin",
+                    "label": "REFACCIONES MERETI, SA DE CV - ATT: Esteban Gonzalez Luis Spota 64 PB San Simon Ticumac 03660 Benito Juares, Cd De Mexico"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "55 5532 3605"
+                  },
+                  {},
+                  {
+                    "icon": "home_pin",
+                    "label": "ROSAN INT. SC DE RL DE CV - Tilos #112 L4 - ATT: Claudia Tovar Santa Maria Insurgentes Cuauhtemoc 06430 Ciudad de Mexico, Mexico"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "52 55 5558-0666"
+                  }
+                ],
+                "title": "Mexico"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "COMERCIALIZADORA PANAMERICANA - ATTN: Mauricio Castillo Del Hospital Bautista, 1-1/2 Cuadra Aabajo, Managua, Nicaragua",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "label": "+1 505 8893 9072",
+                    "icon": "headset-frigidaire"
+                  },
+                  {},
+                  {
+                    "label": "UNION COMERCIAL DENICARAGUA SA - ATT: Dennis Espinoza Puente a Desnivel Portezuelo 800 MTS Al Sure, Managua, Nicaragua",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1-505-2255-8191"
+                  }
+                ],
+                "title": "Nicaragua"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "ACE INTERNATIONAL DO IT CENTER - ATTN: Edwin Gonzalez Calle Niguel Brostella, Panama City, Panama",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 507 302 0480"
+                  },
+                  {},
+                  {
+                    "icon": "home_pin",
+                    "label": "CENTRAL AMERICA APPLIANCE - ATT: Michelle Stanziola Distributors, Corp Ave. Samule Lewis, Local #11 Addison House Plaza, Obarrio Panama City, Panama"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "507-265-2546"
+                  },
+                  {},
+                  {
+                    "icon": "home_pin",
+                    "label": "CLIMATIZADORA EPA AIRE S.A. - ATT: Boris Esteban Cruz Castro Via Espana Rio Abajo Calle Principal, Ave 18 Norte, Ciudad De Panama, Panama"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "507-388-3821 "
+                  },
+                  {},
+                  {
+                    "icon": "home_pin",
+                    "label": "EGS GLOBAL CONSULTING INC. - ATT: Angel Escala Brisas Del Golf 6th St. Occident, House 204BO Panama, Panama"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "507-6868-0436 "
+                  },
+                  {},
+                  {
+                    "icon": "home_pin",
+                    "label": "ELECTROTODO AMERICA S.A. - ATT: Sami Fattal Plaza 75 Lefebre Via Espana y Calle 97 Este Cd. De Panama, Panama"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "58414302229"
+                  },
+                  {},
+                  {
+                    "icon": "home_pin",
+                    "label": "K&S PARTS INC. S.A. ATT: Pawan Godhwani Calle 2, Avenida Melendez CAS 382, Colon, Panama"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "507-6612-4934"
+                  },
+                  {},
+                  {
+                    "icon": "home_pin",
+                    "label": "REFRIPARTS & SERVICE PANAMA - ATTN: Cesar Silva Ramos Calle Urraca 1, Local E48 San Antonio, Panama"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 507 387 2277"
+                  },
+                  {},
+                  {
+                    "icon": "home_pin",
+                    "label": "TECH & HOUSE - ATTN: Rajesh Sadhwani Edif. Tech and House Via Brasi, Panama City, Panama"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 507 263 9611"
+                  }
+                ],
+                "title": "Panama"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "CHACOMER S.A.E. - ATT: Frank Walde Avda. Eusebio Ayala 3321 Casi RCA. Argentina Asuncion, Central, Paraguay",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "595-21-518-0000"
+                  }
+                ],
+                "title": "Paraguay"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "BACCESSORY IMPORT SRL - ATT: Moises Vargas Ave, Kioe De Vega No. 37 Naco, Santo Domingo, Republica Dominicana",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "809-540-2927 EXT. 243"
+                  },
+                  {},
+                  {
+                    "icon": "home_pin",
+                    "label": "CRIS TECHNICAL SERVICE SRL - ATTN: Criselmi Alcantara Bonil CR Carlos Hernandez No. 70 A San Jeronimo, Republica Dominicana"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 809 876-1094 "
+                  },
+                  {},
+                  {
+                    "icon": "home_pin",
+                    "label": "DISTRIBUIDORA CORRIPIO S.A.S - ATTN: Mayra Cruz Ave. Nunez De Caceres Esquina Calle 1 San Geronimo Santo Domingo, Republica Dominicana"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 809-227-3200 "
+                  },
+                  {},
+                  {
+                    "label": "GARANTEC S.R.L. - Carretera Duarte Vieja No. 104 Esq. Jose Arias, Las Palmas De Herrera, Santo Domingo Oeste, Dominican Republic",
+                    "icon": "home_pin"
+                  },
+                  {},
+                  {
+                    "icon": "home_pin",
+                    "label": "LA CUISINE APPLIANCE RD - Rafael Augusto Sanchez #22 Edif. Don Roberto, APTO 201 Ensanche Piantini, Santo Domingo, Dominican Republic"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "809.959.0403 "
+                  },
+                  {},
+                  {
+                    "icon": "home_pin",
+                    "label": "MOLINA - ATTN: Juan Molina Ave. Duarte 350, Ens. Luperon Santo Domingo, Dominican Republic"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 809 684 5441 "
+                  },
+                  {},
+                  {
+                    "icon": "home_pin",
+                    "label": "REFRIGERACION GARCIA - ATTN: Aridio Garcia Tineo Calle Tomas De La Concha 8 Santo Domingo, Dominican Republic"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 809 687 8248  "
+                  },
+                  {}
+                ],
+                "title": "Republica Dominicana"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "APPLIANCE PARTS IMPORTS, INC - ATT: Juan Carlos Figueroa GQ-11 Campo Rico Ave. Carolina, PR 00982",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "(787) 757-0400"
+                  }
+                ],
+                "title": "Puerto Rico"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "J.BENTON CONSTRUCTION LLC - ATT: Chris Ferreras 3000 Orange Grove, Christiansted, St. Croix, Virgin Islands 00820",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "340-718-7222 "
+                  },
+                  {},
+                  {
+                    "icon": "home_pin",
+                    "label": "ROYAL FURNITURE - ATTN: Wajeeh Abdallah 7B Peter’s Rest Chrstiansted, St. Croix U.S. Virgin Islands 00820"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": " +1 340 773 3290  "
+                  }
+                ],
+                "title": "St. Croix"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "JAPER ELECTRONICS INC. - ATT: Luis Marsano 12528 Kirkham Road Suite 3 Poway, CA 92064",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "858-486-7266"
+                  }
+                ],
+                "title": "Peru"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "COURTS ST. KITTS/NEVIS - ATTN: Sophia Tullock Bay Road - P.O. Box 1088 Basseterre, St. Kitts, Netherland Antilles",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 869-466-1640 "
+                  }
+                ],
+                "title": "St. Kitts"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "COURTS ST. LUCIA LTD. - ATTN: Bianca Joseph Marisule Castries, St. Lucia",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 758-457-8206"
+                  }
+                ],
+                "title": "St. Lucia"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "C.D. VEIRA LTD. - ATT: Ian Veira Halifax Street Kingstown, St. Vincent",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "784-493-9009"
+                  },
+                  {},
+                  {
+                    "icon": "home_pin",
+                    "label": "UNICOMER ST. VINCENT LTD. - ATTN: Joselle Roberts Bay Street, Kingstown St. Vincent & The Grenadines"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 784 456 1325"
+                  }
+                ],
+                "title": "St. Vincent"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "CHM SURINAME N.V. - ATTN: Kasimbeg Edmund Dr Sophie Redmondstraat 2-14 Paramaribo, Suriname",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 597 884 8445"
+                  },
+                  {},
+                  {
+                    "label": "HOME SHOPPING & DELIVERY SERV - ATTN: Steven M Yau Magenwegstraat #65 Paramaribo, Suriname",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "label": "+1 597-425-521 ",
+                    "icon": "headset-frigidaire"
+                  },
+                  {},
+                  {
+                    "icon": "home_pin",
+                    "label": "PROTRADE INTERNATIONAL - ATT: Gail Jaggan Procurement Dept. Of Protrade Kwatta Street #6 Paramaribo, Suriname"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 597-427-114 "
+                  },
+                  {}
+                ],
+                "title": "Suriname"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "FURNITURE PLUS - ATTN: Armil Aleong-Juman Lot #21D, David Blake Street O'Meara Industrial Estate Arima, Trinidad",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "+1 868 675 3373"
+                  },
+                  {},
+                  {
+                    "label": "GRAND PRIX LIMITED - ATTN: David Giboon #5 FWC Commercial Center Mission Road Freeport, Trinidad",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "label": "+1 868 673 7373  ",
+                    "icon": "headset-frigidaire"
+                  },
+                  {},
+                  {
+                    "label": "PARTS WORLD LIMITED - ATTN: Sheldon Mungroo 155 A Eastern Main Road Barataria, Trinidad",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "label": "+1 868 638 2570 ",
+                    "icon": "headset-frigidaire"
+                  },
+                  {},
+                  {
+                    "label": "RELIABLE APPLIANCE PARTS & SER - ATTN: amon Moreno 161 Western Main Road St. James, Trinidad West Indies",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "label": "+1 868-675-0069  ",
+                    "icon": "headset-frigidaire"
+                  },
+                  {},
+                  {
+                    "label": "STANDARD DISTRIBUTORS LIMITED - ATTN: Standards Purchasing Ansa Mcal Center, Guardian BLG 2dn Floor, Edeavour Road Chaguanas, Trinidad, W.I.",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "label": "+1 868-299-0219",
+                    "icon": "headset-frigidaire"
+                  },
+                  {},
+                  {
+                    "label": "UNICOMER TRINIDAD LTD - ATTN: Leon Richards #1 Calcutta Road Calcutta Freeport, Trinidad",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "label": "+1 868 672-7577",
+                    "icon": "headset-frigidaire"
+                  }
+                ],
+                "title": "Trinidad"
+              },
+              {
+                "cardItems": [
+                  {
+                    "label": "AON INTERNATIONAL INC - ATTN: Adam Ahmad 8901 NW 35 Lane, Suite 201 Miami, FL 33172",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "305 36 5000"
+                  },
+                  {},
+                  {
+                    "icon": "home_pin",
+                    "label": "APPLIANCE PARTS SOLUTIONS LCC - ATTN: Anilu La Rosa 50 Biscayne Blvd. Suite 2703 Miami, FL 33132"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "786-616-6184"
+                  },
+                  {},
+                  {
+                    "icon": "home_pin",
+                    "label": "COLCUMI DBA/GARCIA - ATTN: Jose Alvarez 4599 NW 77th Avenue Miami, FL 33167"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "305 594 6666"
+                  },
+                  {},
+                  {
+                    "icon": "home_pin",
+                    "label": "D. BEN-TOBY, INC. - ATTN: Anthony Azan 8307 N.W. 54th Street Miami, FL 33166"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "305 463 8980"
+                  },
+                  {},
+                  {
+                    "icon": "home_pin",
+                    "label": "EA GLOBAL TRADING, INC. DBA/AMEREX - ATTN: Osvaldo Melendez 1810 NW 94th Avenue Miami, FL 33172"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "305-717-3317"
+                  },
+                  {},
+                  {
+                    "label": "IPA EXPORT INC. - ATT: Heico Thorn 3770 SW 30th Avenue FT. Lauderdale, FL 3312-6701",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "label": "954-581-6620 ",
+                    "icon": "headset-frigidaire"
+                  },
+                  {},
+                  {
+                    "label": "TIBBETTS INTERNATIONAL LLC - ATT: Keith Mahan 3300 Fairfield Avenue S St. Petersburg, FL 33712",
+                    "icon": "home_pin"
+                  },
+                  {
+                    "label": "345-943-5055",
+                    "icon": "headset-frigidaire"
+                  }
+                ],
+                "title": "USA"
+              }
+            ]
+          },
+          "rule": {
+            "__resolveType": "website/matchers/always.ts"
+          }
+        }
+      ]
+    },
+    {
+      "__resolveType": "website/flags/multivariate/section.ts",
+      "variants": [
+        {
+          "value": {
+            "__resolveType": "Footer mobile"
+          },
+          "rule": {
+            "__resolveType": "Mobile"
+          }
+        },
+        {
+          "value": {
+            "__resolveType": "Footer"
+          },
+          "rule": {
+            "__resolveType": "website/matchers/always.ts"
+          }
+        }
+      ]
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx",
+  "name": "Venta de Partes Frigidaire"
+}

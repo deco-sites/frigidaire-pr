@@ -5,7 +5,6 @@ import manifest from "./manifest.gen.ts";
 export default defineConfig({
   plugins: plugins({
     manifest,
-    // deno-lint-ignore no-explicit-any
-    
+    htmx: true,
   }),
 });

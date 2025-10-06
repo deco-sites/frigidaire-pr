@@ -3,16 +3,35 @@
     "type": "website",
     "jsonLDs": [],
     "noIndexing": false,
-    "description": "Improve your page performance with deco.cx",
-    "titleTemplate": "%s | deco.cx",
-    "descriptionTemplate": "%s | deco.cx",
-    "title": "Start",
-    "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/8/40cc7da0-93d3-4215-9c2a-04b2f86b0a47",
-    "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/8/22c99167-0018-484f-8b0d-4295a7d771f2"
+    "titleTemplate": "%s | Frigidaire",
+    "descriptionTemplate": "%s",
+    "title": "Conoce más de nuestros productos Frigidaire!",
+    "description": "Frigidaire ofrece la mejor tecnología en una línea completa de electrodomésticos y pequeños electrodomésticos. Compre en línea y tenga la mejor tecnología en su hogar. ¡A disfrutar!",
+    "favicon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/frigidaire-es/18d825b7-9d94-43cb-a8b3-dee0a8ec629b/favicon.png"
+  },
+  "theme": {
+    "__resolveType": "Frigidaire Theme"
   },
   "global": [
     {
       "__resolveType": "htmx/sections/htmx.tsx"
+    },
+    {
+      "__resolveType": "website/sections/Analytics/Analytics.tsx",
+      "trackingIds": [
+        "GTM-NQL62X5T"
+      ]
+    },
+    {
+      "__resolveType": "analytics/sections/Analytics/DecoAnalytics.tsx"
+    },
+    {
+      "__resolveType": "elux-components-app/sections/Content/Toast.tsx"
+    },
+    {
+      "__resolveType": "elux-components-app/sections/PageView.tsx",
+      "contentGroupValue": "content",
+      "considerSubpages": true
     }
   ],
   "routes": [
@@ -26,9 +45,23 @@
   "caching": {
     "directives": []
   },
+  "commerce": {
+    "platform": "other"
+  },
   "__resolveType": "site/apps/site.ts",
-  "firstByteThresholdMS": true,
-  "theme": {
-    "__resolveType": "Neutral"
-  }
+  "firstByteThresholdMS": false,
+  "abTesting": {
+    "replaces": [],
+    "includeScriptsToHead": {
+      "includes": []
+    },
+    "includeScriptsToBody": {
+      "includes": []
+    }
+  },
+  "flavor": {
+    "framework": "htmx"
+  },
+  "language": "ES",
+  "platform": "custom"
 }

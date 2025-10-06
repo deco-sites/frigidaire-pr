@@ -1,0 +1,141 @@
+{
+  "name": "Blog Post",
+  "path": "/blog/:category/:slug",
+  "sections": [
+    {
+      "__resolveType": "blog/sections/Seo/SeoBlogPost.tsx",
+      "jsonLD": {
+        "__resolveType": "Extended Blogpost Page Loader",
+        "seo": null
+      }
+    },
+    {
+      "__resolveType": "Header"
+    },
+    {
+      "__resolveType": "elux-components-app/sections/blog/BlogpostBreadcrumb.tsx",
+      "postPage": {
+        "__resolveType": "Extended Blogpost Page Loader",
+        "seo": null
+      },
+      "spacing": {
+        "desktop": {
+          "top": {
+            "behavior": "split",
+            "size": "extra-small"
+          },
+          "bottom": {
+            "behavior": "split",
+            "size": "extra-small"
+          }
+        },
+        "mobile": {
+          "top": {
+            "behavior": "split",
+            "size": "extra-small"
+          },
+          "bottom": {
+            "behavior": "split",
+            "size": "extra-small"
+          }
+        }
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "elux-components-app/sections/blog/BlogpostBanner.tsx",
+        "postPage": {
+          "__resolveType": "Extended Blogpost Page Loader"
+        }
+      }
+    },
+    {
+      "__resolveType": "elux-components-app/sections/blog/BlogpostContent.tsx",
+      "postPage": {
+        "__resolveType": "Extended Blogpost Page Loader"
+      },
+      "spacing": {
+        "desktop": {
+          "top": {
+            "behavior": "split",
+            "size": "small"
+          },
+          "bottom": {
+            "behavior": "split",
+            "size": "medium"
+          }
+        },
+        "mobile": {
+          "top": {
+            "behavior": "split",
+            "size": "small"
+          },
+          "bottom": {
+            "behavior": "split",
+            "size": "double-extra-large"
+          }
+        }
+      }
+    },
+    {
+      "__resolveType": "elux-components-app/sections/blog/BlogpostComments.tsx",
+      "page": {
+        "__resolveType": "Extended Blogpost Page Loader"
+      },
+      "title": "Comments",
+      "titleComment": "Leave your comments",
+      "commentsPerPage": 3,
+      "sectionConfig": {
+        "textareaProps": {
+          "label": "Comment*",
+          "placeholder": "Write your comment here",
+          "maxLength": 300,
+          "maxLines": 5
+        },
+        "nameInputProps": {
+          "label": "Comment*",
+          "placeholder": "Write your comment here",
+          "requiredText": "This field is obligattory"
+        },
+        "emailInputProps": {
+          "placeholder": "Write your email here",
+          "label": "E-mail*",
+          "requiredText": "This field is obligattory",
+          "extraText": "Your e-mail will not be published."
+        },
+        "submitButtonText": "Submit comment",
+        "toastProps": {
+          "successText": "Comment sent! Our team will review your comment soon.",
+          "errorText": "Error while submitting your comment. Try again in a few minutes.",
+          "toastDuration": 5
+        }
+      }
+    },
+    {
+      "__resolveType": "website/flags/multivariate/section.ts",
+      "variants": [
+        {
+          "value": {
+            "__resolveType": "Footer mobile"
+          },
+          "rule": {
+            "__resolveType": "Mobile"
+          }
+        },
+        {
+          "value": {
+            "__resolveType": "Footer"
+          },
+          "rule": {
+            "__resolveType": "website/matchers/always.ts"
+          }
+        }
+      ]
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

@@ -1,0 +1,13 @@
+{
+  "__resolveType": "elux-components-app/actions/product/images/updateProductImages.ts",
+  "images": [
+    {
+      "url": "https://assets.decocache.com/frigidaire-es/2a3e22ca-f9cb-418d-aefb-b1fc09ef8262/frente.png"
+    },
+    {
+      "url": "https://assets.decocache.com/frigidaire-es/6074ecf0-6393-4f36-a98f-00d651bba780/Int.png"
+    }
+  ],
+  "sku": "ERTM45F5HPW",
+  "password": "frigidaire"
+}

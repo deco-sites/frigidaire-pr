@@ -1,0 +1,10 @@
+{
+  "__resolveType": "elux-components-app/actions/product/categories/addProductCategories.ts",
+  "categories": [
+    {
+      "subjectOf": "refrigerador-french-door---Refrigerador French Door---3"
+    }
+  ],
+  "password": "frigidaire",
+  "sku": "GRFS2853AF"
+}

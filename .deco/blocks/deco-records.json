@@ -1,0 +1,9 @@
+{
+  "__resolveType": "site/apps/deco/records.ts",
+  "url": "libsql://elux-latam-decocx.turso.io",
+  "authToken": {
+    "__resolveType": "website/loaders/secret.ts",
+    "name": "DATABASE_AUTH_TOKEN",
+    "encrypted": "f4939b8d36bfaefa9d87304bc1246f623ee0a2b0383d50ed445ad3897810294ca988bad28ce64ffe044a92dfad48b08929cdcf6c4b520ba8a0530c1f408f9a30086958f7c410f68c93af8d5b44177cff46217a1f79cc2d282887c00bf4f020bb5f5daf1b4d288dd64188cc922e0be1ed263bd477bef11e99ff2cdc64e935b18b1e061724091aa6c06e995a963c272ef6a045929b27dd0b5940b436a9bd627ef8c9b03da715702378e8dc3cdcf283ca7eb8c80c25497e2bb10a0412c2c228e4b5ff876ebaa7b7a4790d67cb9c221a6013955f85cd5585244cb0d2216495d545d9"
+  }
+}

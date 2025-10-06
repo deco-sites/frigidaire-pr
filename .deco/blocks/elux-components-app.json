@@ -1,0 +1,11 @@
+{
+  "__resolveType": "site/apps/local/elux-components-app.ts",
+  "language": "ES",
+  "originSite": "Frigidaire-ES",
+  "siteTemplate": "frigidaire",
+  "actionPassword": {
+    "__resolveType": "website/loaders/secret.ts",
+    "encrypted": "ba2e36ebf215b218a3056a0a5b27ef11",
+    "name": "ACTION_PASSWORD"
+  }
+}

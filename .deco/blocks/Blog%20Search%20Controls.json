@@ -1,0 +1,51 @@
+{
+  "__resolveType": "elux-components-app/sections/blog/BlogSearch.tsx",
+  "categorySection": {
+    "categories": [
+      {
+        "name": "Ver todo",
+        "slug": "/",
+        "default": true
+      },
+      {
+        "name": "Categoría",
+        "slug": "category",
+        "default": false
+      },
+      {
+        "name": "Otra categoría",
+        "slug": "other-category",
+        "default": false
+      }
+    ],
+    "title": "Select a category"
+  },
+  "searchSection": {
+    "title": "Buscar contenido específico",
+    "clearText": "Borrar búsqueda",
+    "placeholder": "Escribe aquí",
+    "searchButtonText": "Buscar"
+  },
+  "spacing": {
+    "desktop": {
+      "top": {
+        "behavior": "split",
+        "size": "small"
+      },
+      "bottom": {
+        "behavior": "split",
+        "size": "small"
+      }
+    },
+    "mobile": {
+      "top": {
+        "behavior": "split",
+        "size": "small"
+      },
+      "bottom": {
+        "behavior": "split",
+        "size": "small"
+      }
+    }
+  }
+}

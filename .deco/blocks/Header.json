@@ -1,0 +1,331 @@
+{
+  "__resolveType": "elux-components-app/sections/Header/Header.tsx",
+  "logo": {
+    "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-latam-us/6606c647-a369-41fb-b9ed-c4011d6ea7ad/Logo.png",
+    "alt": "Deco Storefront",
+    "width": 150,
+    "height": 17
+  },
+  "loading": "eager",
+  "menu": {
+    "__resolveType": "elux-components-app/loaders/menu.ts",
+    "menu": [
+      {
+        "icon": "refrigerator-frigidaire",
+        "collums": [
+          {
+            "categories": [
+              {
+                "icon": "freezer-frigidaire",
+                "navItems": [
+                  {
+                    "icon": "search",
+                    "title": "Una Puerta",
+                    "link": "/cocina/refrigeracion/refrigerador-una-puerta"
+                  },
+                  {
+                    "icon": "search",
+                    "title": "Dos Puertas",
+                    "link": "/cocina/refrigeracion/refrigerador-dos-puertas"
+                  },
+                  {
+                    "icon": "search",
+                    "title": "Puerta Francesa",
+                    "link": "/cocina/refrigeracion/refrigerador-french-door"
+                  },
+                  {
+                    "icon": "search",
+                    "title": "Side by Side",
+                    "link": "/cocina/refrigeracion/side-by-side"
+                  },
+                  {
+                    "icon": "search",
+                    "title": "Congeladores",
+                    "link": "/cocina/refrigeracion/congeladores"
+                  }
+                ],
+                "link": "/cocina/refrigeracion",
+                "title": "Refrigeración"
+              }
+            ]
+          },
+          {
+            "categories": [
+              {
+                "icon": "cocina-frigidaire",
+                "navItems": [
+                  {
+                    "icon": "search",
+                    "title": "Estufas / Cocinas",
+                    "link": "/cocina/cocinas/estufas-y-cocinas"
+                  },
+                  {
+                    "icon": "search",
+                    "title": "Microondas",
+                    "link": "/cocina/cocinas/microondas"
+                  },
+                  {
+                    "icon": "search",
+                    "title": "Campanas Extractoras",
+                    "link": "/cocina/cocinas/campanas-extractoras"
+                  },
+                  {
+                    "icon": "search",
+                    "title": "Hornos",
+                    "link": "/cocina/cocinas/hornos"
+                  }
+                ],
+                "title": "Cocción",
+                "link": "/cocina/cocinas"
+              }
+            ]
+          },
+          {
+            "categories": [
+              {
+                "icon": "washer-frigidaire",
+                "navItems": [
+                  {
+                    "icon": "search",
+                    "title": "Empotrados",
+                    "link": "/cocina/lavavajillas/lavavajillas-empotrable"
+                  }
+                ],
+                "title": "Lavavajillas",
+                "link": "/cocina/lavavajillas"
+              }
+            ]
+          }
+        ],
+        "title": "Cocina",
+        "link": "/cocina"
+      },
+      {
+        "icon": "washer-frigidaire",
+        "collums": [
+          {
+            "categories": [
+              {
+                "icon": "washer-frigidaire",
+                "navItems": [
+                  {
+                    "icon": "search",
+                    "title": "Lavadora Carga Superior",
+                    "link": "/area-de-lavado/lavado/lavadora-carga-superior"
+                  },
+                  {
+                    "icon": "search",
+                    "title": "Lavadora Carga Frontal",
+                    "link": "/area-de-lavado/lavado/lavadora-carga-frontal"
+                  },
+                  {
+                    "icon": "search",
+                    "title": "Lavadora Secadora",
+                    "link": "/area-de-lavado/lavado/lavasecadoras"
+                  },
+                  {
+                    "icon": "search",
+                    "title": "Centro de Lavado",
+                    "link": "/area-de-lavado/lavado/centro-de-lavado"
+                  }
+                ],
+                "title": "Lavado",
+                "link": "/area-de-lavado"
+              }
+            ]
+          },
+          {
+            "categories": [
+              {
+                "icon": "dryer-frigidaire",
+                "navItems": [
+                  {
+                    "icon": "search",
+                    "title": "Secadora Carga Frontal",
+                    "link": "/area-de-lavado/secadoras/secadoras-carga-frontal"
+                  }
+                ],
+                "title": "Secadoras",
+                "link": "/area-de-lavado/secadoras"
+              }
+            ]
+          }
+        ],
+        "title": "Área de Lavado",
+        "link": "/area-de-lavado"
+      },
+      {
+        "icon": "wind-frigidaire",
+        "collums": [
+          {
+            "categories": [
+              {
+                "icon": "conditioning-frigidaire",
+                "navItems": [
+                  {
+                    "icon": "search",
+                    "title": "Split",
+                    "link": "/bienestar-del-hogar/aire-acondicionado/aire-acondicionado-split"
+                  },
+                  {
+                    "icon": "search",
+                    "title": "Portátil",
+                    "link": "/bienestar-del-hogar/aire-acondicionado/aire-acondicionado-portatil"
+                  }
+                ],
+                "title": "Aire Acondicionado",
+                "link": "/bienestar-del-hogar/aire-acondicionado"
+              }
+            ]
+          },
+          {
+            "categories": [
+              {
+                "icon": "vacuum-frigidaire",
+                "navItems": [],
+                "title": "Limpieza",
+                "link": "/bienestar-del-hogar/limpieza"
+              }
+            ]
+          }
+        ],
+        "title": "Bienestar del Hogar",
+        "link": "/bienestar-del-hogar"
+      },
+      {
+        "icon": "iron-frigidaire",
+        "collums": [
+          {
+            "categories": [
+              {
+                "title": "Electrodomésticos",
+                "link": "/pequenos-electrodomesticos/electrodomesticos",
+                "icon": "refrigerator-frigidaire",
+                "navItems": [
+                  {
+                    "navItems": [],
+                    "title": "Batidoras",
+                    "link": "/pequenos-electrodomesticos/electrodomesticos/batidoras"
+                  },
+                  {
+                    "navItems": [],
+                    "title": "Cafeteras",
+                    "link": "/pequenos-electrodomesticos/electrodomesticos/cafeteras"
+                  },
+                  {
+                    "navItems": [],
+                    "title": "Freidoras de Aire",
+                    "link": "/pequenos-electrodomesticos/electrodomesticos/freidoras-de-aire"
+                  },
+                  {
+                    "navItems": [],
+                    "title": "Licuadoras",
+                    "link": "/pequenos-electrodomesticos/electrodomesticos/licuadoras"
+                  },
+                  {
+                    "navItems": [],
+                    "title": "Ollas a Presión",
+                    "link": "/pequenos-electrodomesticos/electrodomesticos/ollas-a-presion"
+                  },
+                  {
+                    "navItems": [],
+                    "title": "Planchas",
+                    "link": "/pequenos-electrodomesticos/electrodomesticos/planchas"
+                  },
+                  {
+                    "navItems": [],
+                    "title": "Procesadores de Alimentos",
+                    "link": "/pequenos-electrodomesticos/electrodomesticos/procesadores-de-alimentos"
+                  },
+                  {
+                    "navItems": [],
+                    "title": "Sandwicheras",
+                    "link": "/pequenos-electrodomesticos/electrodomesticos/sandwicheras"
+                  },
+                  {
+                    "navItems": [],
+                    "title": "Tostadoras",
+                    "link": "/pequenos-electrodomesticos/electrodomesticos/tostadoras"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "title": "Pequeños Electrodomésticos",
+        "link": "/pequenos-electrodomesticos"
+      },
+      {
+        "collums": [],
+        "title": "¿Dónde comprar?  ",
+        "link": "/donde-comprar",
+        "icon": "shopping_bag"
+      }
+    ],
+    "extraLinks": [
+      {
+        "links": [
+          {
+            "title": "Contáctanos",
+            "link": "/contactanos",
+            "fontWeight": "font-normal"
+          },
+          {
+            "title": "Asistencia técnica",
+            "link": "/centros-de-servicio",
+            "fontWeight": "font-normal"
+          },
+          {
+            "title": "Venta de partes Frigidaire",
+            "link": "/Venta-de-partes",
+            "fontWeight": "font-normal"
+          }
+        ],
+        "title": "Servicio al cliente",
+        "fontWeight": "font-normal"
+      },
+      {
+        "links": [
+          {
+            "title": "Acerca de Frigidaire",
+            "link": "/sobre-nosotros",
+            "fontWeight": "font-normal"
+          }
+        ],
+        "title": "Frigidaire",
+        "fontWeight": "font-normal"
+      }
+    ],
+    "languages": {
+      "icon": "spain-frigidaire",
+      "links": [
+        {
+          "icon": "spain-frigidaire",
+          "title": "Español",
+          "link": "https://www.frigidaire-la.com/",
+          "fontWeight": "font-normal",
+          "isBlank": false
+        },
+        {
+          "icon": "usa-frigidaire",
+          "fontWeight": "font-normal",
+          "title": "English",
+          "link": "https://www.en.frigidaire-la.com/"
+        }
+      ],
+      "title": "ES",
+      "fontWeight": "font-normal",
+      "hide": false
+    },
+    "mobile": {
+      "logo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-nola-us/7b8ff11a-6d0d-4231-98a5-d27f235e06e5/Logo-Default.png",
+      "textGoBack": "Regresar",
+      "logoWidth": 120,
+      "logoHeight": 14
+    },
+    "menuText": "Todas las categorías",
+    "allCategoriesText": "Categorías",
+    "hideSecondaryMenu": false
+  },
+  "backgroundColor": "base-100"
+}

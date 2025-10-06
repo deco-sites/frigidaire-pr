@@ -1,0 +1,235 @@
+{
+  "name": "About us",
+  "path": "/sobre-nosotros",
+  "sections": {
+    "__resolveType": "website/flags/multivariate.ts",
+    "variants": [
+      {
+        "value": [
+          {
+            "__resolveType": "website/sections/Seo/SeoV2.tsx",
+            "titleTemplate": "About us"
+          },
+          {
+            "__resolveType": "Header"
+          },
+          {
+            "__resolveType": "elux-components-app/sections/Content/Breadcrumb.tsx",
+            "spacing": {
+              "desktop": {
+                "top": {
+                  "behavior": "split",
+                  "size": "extra-small"
+                },
+                "bottom": {
+                  "behavior": "split",
+                  "size": "none"
+                }
+              },
+              "mobile": {
+                "top": {
+                  "behavior": "split",
+                  "size": "extra-small"
+                }
+              }
+            },
+            "icon": "home-frigidaire",
+            "iconSize": 16,
+            "fontColor": "primary",
+            "fontSize": "text-xs",
+            "items": [
+              {
+                "label": "Sobre nosotros"
+              }
+            ]
+          },
+          {
+            "__resolveType": "elux-components-app/sections/Content/TextCards.tsx",
+            "title": {
+              "text": "El Legado de Frigidaire",
+              "fontColor": "primary",
+              "fontSize": "text-2xl",
+              "fontWeight": "font-medium"
+            },
+            "description": {
+              "fontColor": "secondary",
+              "fontSize": "text-sm",
+              "fontWeight": "font-light"
+            },
+            "sectionProps": {
+              "titleProps": {
+                "fontColor": "secondary",
+                "fontWeight": "font-medium",
+                "fontSize": "text-base"
+              },
+              "complementProps": {
+                "fontColor": "secondary",
+                "fontSize": "text-sm",
+                "fontWeight": "font-light"
+              },
+              "gapX": "5",
+              "gapY": "10",
+              "grid": "2"
+            },
+            "textSections": [
+              {
+                "title": "¿Quiénes somos?",
+                "complement": "<p style=\"text-align: center\">Fundada en 1916 como <strong>Guardian Frigerator Company</strong> en Fort Wayne, Indiana, Frigidaire ha sido pionera en la innovación de electrodomésticos durante más de un siglo. La empresa presentó el <strong>primer refrigerador eléctrico autónomo</strong> en 1918, revolucionando la conservación de alimentos y marcando el inicio de la refrigeración moderna.</p>"
+              },
+              {
+                "title": "Nuestra Historia",
+                "complement": "<p style=\"text-align: center\">En 1919, la compañía adoptó el nombre de <strong>Frigidaire</strong>, un nombre que rápidamente se convirtió en sinónimo de refrigeración. Durante décadas, muchos estadounidenses se referían a cualquier refrigerador como un \"Frigidaire\", sin importar la marca real.</p><p style=\"text-align: center\">Desde 1919 hasta 1979, Frigidaire fue una división de <strong>General Motors</strong>, período durante el cual amplió su línea de productos para incluir lavadoras, secadoras, cocinas y aires acondicionados. En 1979, fue adquirida por <strong>White Consolidated Industries</strong>, y más tarde pasó a formar parte del <strong>Grupo Electrolux</strong> en 1986, un líder global en electrodomésticos.</p>"
+              },
+              {
+                "complement": "<p style=\"text-align: center\">Hoy en día, Frigidaire continúa ofreciendo <strong>electrodomésticos innovadores, confiables y con estilo</strong> que simplifican la vida diaria. Desde refrigeradores de bajo consumo energético hasta cocinas intuitivas y soluciones de lavandería, Frigidaire mantiene su compromiso con la calidad, el rendimiento y la satisfacción del cliente</p>"
+              }
+            ],
+            "spacingConfig": {
+              "desktop": {
+                "top": {
+                  "behavior": "split",
+                  "size": "medium"
+                },
+                "bottom": {
+                  "behavior": "split",
+                  "size": "medium"
+                }
+              },
+              "mobile": {
+                "top": {
+                  "behavior": "split",
+                  "size": "extra-large"
+                },
+                "bottom": {
+                  "behavior": "split",
+                  "size": "extra-large"
+                }
+              }
+            }
+          },
+          {
+            "__resolveType": "Footer mobile"
+          }
+        ],
+        "rule": {
+          "__resolveType": "Mobile"
+        }
+      },
+      {
+        "value": [
+          {
+            "__resolveType": "website/sections/Seo/SeoV2.tsx",
+            "titleTemplate": "About us"
+          },
+          {
+            "__resolveType": "Header"
+          },
+          {
+            "__resolveType": "elux-components-app/sections/Content/Breadcrumb.tsx",
+            "spacing": {
+              "desktop": {
+                "top": {
+                  "behavior": "split",
+                  "size": "extra-small"
+                },
+                "bottom": {
+                  "behavior": "split",
+                  "size": "none"
+                }
+              },
+              "mobile": {
+                "top": {
+                  "behavior": "split",
+                  "size": "extra-small"
+                }
+              }
+            },
+            "icon": "home-frigidaire",
+            "iconSize": 16,
+            "fontColor": "primary",
+            "fontSize": "text-xs",
+            "items": [
+              {
+                "label": "Sobre nosotros"
+              }
+            ]
+          },
+          {
+            "__resolveType": "elux-components-app/sections/Content/TextCards.tsx",
+            "title": {
+              "fontColor": "primary",
+              "fontSize": "text-2.5xl",
+              "fontWeight": "font-medium",
+              "text": "El Legado de Frigidaire"
+            },
+            "description": {
+              "fontColor": "secondary",
+              "fontSize": "text-sm",
+              "fontWeight": "font-light"
+            },
+            "sectionProps": {
+              "titleProps": {
+                "fontColor": "primary",
+                "fontWeight": "font-medium",
+                "fontSize": "text-base"
+              },
+              "complementProps": {
+                "fontColor": "secondary",
+                "fontSize": "text-sm",
+                "fontWeight": "font-light"
+              },
+              "gapX": "8",
+              "gapY": "10",
+              "grid": "1"
+            },
+            "textSections": [
+              {
+                "title": "¿Quiénes somos?",
+                "complement": "<p style=\"text-align: center\">Fundada en 1916 como <strong>Guardian Frigerator Company</strong> en Fort Wayne, Indiana, Frigidaire ha sido pionera en la innovación de electrodomésticos durante más de un siglo. La empresa presentó el <strong>primer refrigerador eléctrico autónomo</strong> en 1918, revolucionando la conservación de alimentos y marcando el inicio de la refrigeración moderna.</p>"
+              },
+              {
+                "title": "Nuestra Historia",
+                "complement": "<p style=\"text-align: center\"><span style=\"font-size: inherit\">En 1919, la compañía adoptó el nombre de </span><strong><span style=\"font-size: inherit\">Frigidaire</span></strong><span style=\"font-size: inherit\">, un nombre que rápidamente se convirtió en sinónimo de refrigeración. Durante décadas, muchos estadounidenses se referían a cualquier refrigerador como un \"Frigidaire\", sin importar la marca real.</span></p><p style=\"text-align: center\"><span style=\"font-size: inherit\">Desde 1919 hasta 1979, Frigidaire fue una división de </span><strong><span style=\"font-size: inherit\">General Motors</span></strong><span style=\"font-size: inherit\">, período durante el cual amplió su línea de productos para incluir lavadoras, secadoras, cocinas y aires acondicionados. En 1979, fue adquirida por </span><strong><span style=\"font-size: inherit\">White Consolidated Industries</span></strong><span style=\"font-size: inherit\">, y más tarde pasó a formar parte del </span><strong><span style=\"font-size: inherit\">Grupo Electrolux</span></strong><span style=\"font-size: inherit\"> en 1986, un líder global en electrodomésticos.</span></p>"
+              },
+              {
+                "complement": "<p style=\"text-align: center\">Hoy en día, Frigidaire continúa ofreciendo <strong>electrodomésticos innovadores, confiables y con estilo</strong> que simplifican la vida diaria. Desde refrigeradores de bajo consumo energético hasta cocinas intuitivas y soluciones de lavandería, Frigidaire mantiene su compromiso con la calidad, el rendimiento y la satisfacción del cliente</p>"
+              }
+            ],
+            "spacingConfig": {
+              "desktop": {
+                "top": {
+                  "behavior": "split",
+                  "size": "medium"
+                },
+                "bottom": {
+                  "behavior": "split",
+                  "size": "medium"
+                }
+              },
+              "mobile": {
+                "top": {
+                  "behavior": "split",
+                  "size": "extra-large"
+                },
+                "bottom": {
+                  "behavior": "split",
+                  "size": "extra-large"
+                }
+              }
+            }
+          },
+          {
+            "__resolveType": "Footer"
+          }
+        ],
+        "rule": {
+          "__resolveType": "website/matchers/always.ts"
+        }
+      }
+    ]
+  },
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

@@ -1,0 +1,487 @@
+{
+  "path": "/centros-de-servicio",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Seo/SeoV2.tsx",
+      "titleTemplate": "Soporte y Servicio Técnico"
+    },
+    {
+      "__resolveType": "Header"
+    },
+    {
+      "__resolveType": "elux-components-app/sections/Content/Breadcrumb.tsx",
+      "icon": "home-frigidaire",
+      "iconSize": 16,
+      "fontColor": "primary",
+      "fontSize": "text-xs",
+      "items": [
+        {
+          "label": "Asistencia Técnica"
+        }
+      ],
+      "spacing": {
+        "desktop": {
+          "top": {
+            "behavior": "split",
+            "size": "extra-small"
+          },
+          "bottom": {
+            "behavior": "split",
+            "size": "none"
+          }
+        },
+        "mobile": {
+          "top": {
+            "behavior": "split",
+            "size": "extra-small"
+          }
+        }
+      }
+    },
+    {
+      "__resolveType": "website/flags/multivariate/section.ts",
+      "variants": [
+        {
+          "value": {
+            "__resolveType": "elux-components-app/sections/Institutional/Support.tsx",
+            "title": {
+              "text": "Asistencia Técnica",
+              "fontColor": "primary",
+              "fontSize": "text-2.5xl",
+              "fontWeight": "font-semibold"
+            },
+            "description": {
+              "text": "Ponte en contacto con nuestro servicio técnico Frigidaire ",
+              "fontColor": "secondary",
+              "fontSize": "text-sm",
+              "fontWeight": "font-light"
+            },
+            "cardsStyling": {
+              "icons": {
+                "iconSize": 18,
+                "iconColor": "primary"
+              },
+              "text": {
+                "fontColor": "secondary",
+                "fontSize": "text-sm"
+              },
+              "grid": "3",
+              "gap": "5"
+            },
+            "spacing": {
+              "desktop": {
+                "top": {
+                  "behavior": "split",
+                  "size": "small"
+                },
+                "bottom": {
+                  "behavior": "split",
+                  "size": "half-extra-small"
+                }
+              },
+              "mobile": {
+                "top": {
+                  "behavior": "split",
+                  "size": "extra-large"
+                },
+                "bottom": {
+                  "behavior": "split",
+                  "size": "half-extra-small"
+                }
+              }
+            },
+            "cards": [
+              {
+                "cardItems": [
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "787 706-5200 "
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "800 4000 666"
+                  },
+                  {
+                    "icon": "email-frigidaire",
+                    "label": "serviciocostarica@electrolux.com",
+                    "href": "mailto:serviciocostarica@electrolux.com"
+                  }
+                ],
+                "title": "Costa Rica"
+              },
+              {
+                "cardItems": [
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "(503) 2113 0298 "
+                  },
+                  {
+                    "icon": "email-frigidaire",
+                    "label": "servicioelsalvador@electrolux.com",
+                    "href": "mailto:servicioelsalvador@electrolux.com"
+                  }
+                ],
+                "title": "El Slavador"
+              },
+              {
+                "cardItems": [
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "1800 835 0464"
+                  },
+                  {
+                    "icon": "email-frigidaire",
+                    "label": "servicioguatemala@electrolux.com",
+                    "href": "mailto:servicioguatemala@electrolux.com"
+                  }
+                ],
+                "title": "Guatemala"
+              },
+              {
+                "cardItems": [
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "001 800 2260 540"
+                  },
+                  {
+                    "icon": "email-frigidaire",
+                    "label": "servicio.nicaragua@electrolux.com",
+                    "href": "mailto:servicio.nicaragua@electrolux.com"
+                  }
+                ],
+                "title": "Nicaragua"
+              },
+              {
+                "cardItems": [
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "(507) 80 00 247 "
+                  },
+                  {
+                    "icon": "email-frigidaire",
+                    "label": "serviciopanama@electrolux.com",
+                    "href": "mailto:serviciopanama@electrolux.com"
+                  }
+                ],
+                "title": "Panamá"
+              },
+              {
+                "cardItems": [
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "(787) 706-5200 "
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "1 800 981 7105 "
+                  },
+                  {
+                    "icon": "email-frigidaire",
+                    "label": "electrolux.servicio@electrolux.com",
+                    "href": "mailto:electrolux.servicio@electrolux.com"
+                  }
+                ],
+                "title": "Puerto Rico"
+              },
+              {
+                "cardItems": [
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "Electrolux - 01800 1122 215 "
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "Frigidaire / WW - (800) 1122 216 "
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "Ciudad de México - (55) 1555-3500 "
+                  },
+                  {
+                    "icon": "email-frigidaire",
+                    "label": "servicioalcliente@electrolux.com",
+                    "href": "mailto:servicioalcliente@electrolux.com"
+                  }
+                ],
+                "title": "México"
+              },
+              {
+                "cardItems": [
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "800 279 1922 Hondutel y Tigo"
+                  },
+                  {
+                    "icon": "email-frigidaire",
+                    "label": "servicio.honduras@electrolux.com",
+                    "href": "mailto:servicio.honduras@electrolux.com"
+                  }
+                ],
+                "title": "Honduras"
+              },
+              {
+                "cardItems": [
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "809 683 6017"
+                  },
+                  {
+                    "icon": "email-frigidaire",
+                    "label": "servicio.rdominicana@electrolux.com",
+                    "href": "mailto:servicio.rdominicana@electrolux.com"
+                  }
+                ],
+                "title": "República Dominicana"
+              }
+            ]
+          },
+          "rule": {
+            "__resolveType": "Mobile"
+          }
+        },
+        {
+          "value": {
+            "__resolveType": "elux-components-app/sections/Institutional/Support.tsx",
+            "title": {
+              "text": "Asistencia Técnica",
+              "fontColor": "primary",
+              "fontSize": "text-4xl",
+              "fontWeight": "font-semibold"
+            },
+            "description": {
+              "text": "Ponte en contacto con nuestro servicio técnico Frigidaire ",
+              "fontColor": "secondary",
+              "fontSize": "text-sm",
+              "fontWeight": "font-light"
+            },
+            "cardsStyling": {
+              "icons": {
+                "iconSize": 24,
+                "iconColor": "primary"
+              },
+              "text": {
+                "fontColor": "secondary",
+                "fontSize": "text-base"
+              },
+              "grid": "3",
+              "gap": "5"
+            },
+            "spacing": {
+              "desktop": {
+                "top": {
+                  "behavior": "split",
+                  "size": "small"
+                },
+                "bottom": {
+                  "behavior": "split",
+                  "size": "half-extra-small"
+                }
+              },
+              "mobile": {
+                "top": {
+                  "behavior": "split",
+                  "size": "extra-large"
+                },
+                "bottom": {
+                  "behavior": "split",
+                  "size": "half-extra-small"
+                }
+              }
+            },
+            "cards": [
+              {
+                "cardItems": [
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "787 706-5200"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "800 4000 666"
+                  },
+                  {
+                    "icon": "email-frigidaire",
+                    "label": "serviciocostarica@electrolux.com",
+                    "href": "mailto:serviciocostarica@electrolux.com"
+                  }
+                ],
+                "title": "Costa Rica"
+              },
+              {
+                "cardItems": [
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "(503) 2113 0298"
+                  },
+                  {
+                    "icon": "email-frigidaire",
+                    "label": "servicioelsalvador@electrolux.com",
+                    "href": "mailto:servicioelsalvador@electrolux.com"
+                  }
+                ],
+                "title": "El Salvador"
+              },
+              {
+                "cardItems": [
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "1800 835 0464"
+                  },
+                  {
+                    "icon": "email-frigidaire",
+                    "label": "servicioguatemala@electrolux.com",
+                    "href": "mailto:servicioguatemala@electrolux.com"
+                  }
+                ],
+                "title": "Guatemala"
+              },
+              {
+                "cardItems": [
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "001 800 2260 540"
+                  },
+                  {
+                    "icon": "email-frigidaire",
+                    "label": "servicio.nicaragua@electrolux.com",
+                    "href": "mailto:servicio.nicaragua@electrolux.com"
+                  }
+                ],
+                "title": "Nicaragua"
+              },
+              {
+                "cardItems": [
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "(507) 80 00 247"
+                  },
+                  {
+                    "icon": "email-frigidaire",
+                    "label": "serviciopanama@electrolux.com",
+                    "href": "mailto:serviciopanama@electrolux.com"
+                  }
+                ],
+                "title": "Panamá"
+              },
+              {
+                "cardItems": [
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "(787) 706-5200"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "1 800 981 7105"
+                  },
+                  {
+                    "icon": "email-frigidaire",
+                    "label": "electrolux.servicio@electrolux.com",
+                    "href": "mailto:electrolux.servicio@electrolux.com"
+                  }
+                ],
+                "title": "Puerto Rico"
+              },
+              {
+                "cardItems": [
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "Electrolux - 01800 1122 215"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "Frigidaire / WW - (800) 1122 216"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "Ciudad de México - (55) 1555-3500"
+                  },
+                  {
+                    "icon": "email-frigidaire",
+                    "label": "servicioalcliente@electrolux.com",
+                    "href": "mailto:servicioalcliente@electrolux.com"
+                  }
+                ],
+                "title": "México"
+              },
+              {
+                "cardItems": [
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "800 279 1922 Hondutel y Tigo"
+                  },
+                  {
+                    "icon": "email-frigidaire",
+                    "label": "servicio.honduras@electrolux.com",
+                    "href": "mailto:servicio.honduras@electrolux.com"
+                  }
+                ],
+                "title": "Honduras"
+              },
+              {
+                "cardItems": [
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "809 683 6017"
+                  },
+                  {
+                    "icon": "email-frigidaire",
+                    "label": "servicio.rdominicana@electrolux.com",
+                    "href": "mailto:servicio.rdominicana@electrolux.com"
+                  }
+                ],
+                "title": "República Dominicana"
+              },
+              {
+                "cardItems": [
+                  {
+                    "icon": "email-frigidaire",
+                    "label": "servicio.nola@electrolux.com"
+                  }
+                ],
+                "title": "Otros Países"
+              },
+              {
+                "cardItems": [
+                  {
+                    "icon": "email-frigidaire",
+                    "label": "servicio.nola@electrolux.com"
+                  }
+                ],
+                "title": "Centro América y El Caribe"
+              }
+            ]
+          },
+          "rule": {
+            "__resolveType": "website/matchers/always.ts"
+          }
+        }
+      ]
+    },
+    {
+      "__resolveType": "website/flags/multivariate/section.ts",
+      "variants": [
+        {
+          "value": {
+            "__resolveType": "Footer mobile"
+          },
+          "rule": {
+            "__resolveType": "Mobile"
+          }
+        },
+        {
+          "value": {
+            "__resolveType": "Footer"
+          },
+          "rule": {
+            "__resolveType": "website/matchers/always.ts"
+          }
+        }
+      ]
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx",
+  "name": "List of Tech Support"
+}
