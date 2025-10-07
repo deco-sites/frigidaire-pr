@@ -301,9 +301,8 @@
         ],
         "languages": {
           "links": [],
-          "fontWeight": "font-normal",
-          "hide": false,
-          "title": " "
+          "hide": true,
+          "title": " ES"
         },
         "mobile": {
           "logo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-nola-us/7b8ff11a-6d0d-4231-98a5-d27f235e06e5/Logo-Default.png",
@@ -458,18 +457,6 @@
             "url": "/pequenos-electrodomesticos/electrodomesticos"
           }
         ]
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "Shelf Refrigerators"
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "Shelf Dream Kitchen"
       }
     },
     {

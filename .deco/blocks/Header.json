@@ -315,7 +315,7 @@
       ],
       "title": "ES",
       "fontWeight": "font-normal",
-      "hide": false
+      "hide": true
     },
     "mobile": {
       "logo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-nola-us/7b8ff11a-6d0d-4231-98a5-d27f235e06e5/Logo-Default.png",
