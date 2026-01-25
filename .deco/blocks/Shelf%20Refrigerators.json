@@ -22,7 +22,6 @@
       }
     }
   },
-  "title": "Productos más vendidos",
   "extraLink": {},
   "products": [
     {
@@ -33,16 +32,10 @@
           "sortBy": "name-asc",
           "skip": 0,
           "take": 5,
-          "listOption": [
-            "PRSC2222AF",
-            "FRTS12K3HTS",
-            "GRFS2853AF",
-            "FRD04G4HPI",
-            "FFCC11C3HQW"
-          ]
+          "listOption": []
         }
       },
-      "title": "Refrigeración"
+      "title": "Inspiracion para tu cocina"
     },
     {
       "loader": {
@@ -52,15 +45,10 @@
           "sortBy": "name-asc",
           "skip": 0,
           "take": 5,
-          "listOption": [
-            "FKGI30ZTOBTG",
-            "FMTP24G3SXB",
-            "FHWC3060LS",
-            "FCWD3027AS"
-          ]
+          "listOption": []
         }
       },
-      "title": "Cocina"
+      "title": "Arma tu hogar ideal"
     },
     {
       "loader": {
@@ -71,15 +59,10 @@
           "skip": 0,
           "take": 5,
           "data": null,
-          "listOption": [
-            "FWAB17J4EBGUW",
-            "FDE190MSSW",
-            "FWD11M4W",
-            "FLCG7522AW"
-          ]
+          "listOption": []
         }
       },
-      "title": "Lavado"
+      "title": "Tecnologia que simplifica la vida"
     }
   ]
 }

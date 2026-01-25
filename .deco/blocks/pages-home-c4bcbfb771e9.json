@@ -428,16 +428,6 @@
             "title": "Cocina",
             "icon": "cocina-frigidaire",
             "url": "/cocina"
-          },
-          {
-            "title": "Aire acondicionado",
-            "icon": "wind-frigidaire",
-            "url": "/bienestar-del-hogar"
-          },
-          {
-            "title": "Pequeños Electrodomésticos",
-            "icon": "pan-frigidaire",
-            "url": "/pequenos-electrodomesticos/electrodomesticos"
           }
         ]
       }
@@ -465,6 +455,12 @@
             "url": "/Venta-de-partes"
           }
         ]
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Shelf Refrigerators"
       }
     },
     {
@@ -498,7 +494,7 @@
           {
             "image": "https://data.decoassets.com/frigidaire-es/8beeab5c-301d-4996-a767-e95e5ee2cfb9/COCINA.jpg",
             "link": "/cocina",
-            "text": "Cocina"
+            "text": "Cocción"
           },
           {
             "image": "https://data.decoassets.com/frigidaire-es/c9d83555-c847-4887-8e74-aefe199f108b/AREA-DE-LAVADO.jpg",
@@ -506,9 +502,9 @@
             "text": "Área de lavado"
           },
           {
-            "image": "https://data.decoassets.com/frigidaire-es/f3f4cf9a-0faa-4340-842b-820f8f080b03/BIENESTAR-DEL-HOGAR.jpg",
-            "text": "Bienestar del hogar",
-            "link": "bienestar-del-hogar"
+            "image": "https://assets.decocache.com/frigidaire-pr/e5d20116-64e2-424c-97a8-90fff7f48d6e/Captura-de-tela-2026-01-25-183731.png",
+            "text": "Refrigeración",
+            "link": "/cocina/refrigeracion"
           }
         ]
       }
