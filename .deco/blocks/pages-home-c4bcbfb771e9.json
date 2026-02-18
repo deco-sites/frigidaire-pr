@@ -340,25 +340,10 @@
           },
           {
             "desktop": {
-              "image": "https://assets.decocache.com/frigidaire-es/634f99ba-978c-461d-85d5-a591ce124b74/Banner_Web.png"
+              "image": "https://assets.decocache.com/frigidaire-pr/efb54a7d-93d2-4c46-a91f-efb0f6303728/Banner-refrigeradores-Frigidaire-desktop.jpg"
             },
             "mobile": {
-              "image": "https://assets.decocache.com/frigidaire-es/1b770d67-7e23-4c9b-ada9-33d618be8bde/Banner_Movil.png",
-              "width": 400,
-              "height": 350
-            },
-            "bannerType": "image",
-            "alt": "SDA",
-            "action": {
-              "href": "/pequenos-electrodomesticos"
-            }
-          },
-          {
-            "desktop": {
-              "image": "https://assets.decocache.com/frigidaire-es/65614279-21cf-4629-ab1e-4692378a6d38/Banner-3-web-ES.png"
-            },
-            "mobile": {
-              "image": "https://assets.decocache.com/frigidaire-es/53b031a5-2647-4943-a9a5-2c7ff5104df0/Banner-3-movil-ES.png",
+              "image": "https://assets.decocache.com/frigidaire-pr/588c298b-4a21-4604-897a-988380888839/Banner-Refrigeradores-Frigidaire-movil.jpg",
               "width": 375,
               "height": 304
             },
@@ -370,10 +355,10 @@
           },
           {
             "desktop": {
-              "image": "https://assets.decocache.com/frigidaire-es/082729fb-5b24-4719-80ec-2bd6f06fc6dc/Banner-2-Web-ES.png"
+              "image": "https://assets.decocache.com/frigidaire-pr/2a93d4a1-07ce-4f2f-b888-567664e63411/Banner-Cocina-Frigidaire-desktop.jpg"
             },
             "mobile": {
-              "image": "https://assets.decocache.com/frigidaire-es/6a00c680-1739-4320-9961-389209488818/6.png",
+              "image": "https://assets.decocache.com/frigidaire-pr/f925d000-5b6f-4b55-9b4f-ef5ccbd6a5e9/Banner-Cocina-Frigidaire-Movil.jpg",
               "width": 600,
               "height": 565
             },
@@ -385,10 +370,10 @@
           },
           {
             "desktop": {
-              "image": "https://assets.decocache.com/frigidaire-es/cc33334c-a7ec-4de3-a912-824b6ec7f45e/Banner-4-movil-ES.png"
+              "image": "https://assets.decocache.com/frigidaire-pr/cfea08fc-50c5-4edf-beda-a0a5e7131135/Banner-Lavado-Frigidaire-desktop.jpg"
             },
             "mobile": {
-              "image": "https://assets.decocache.com/frigidaire-es/70053ee9-f7f9-44b8-a404-5483da5bf6b7/1515.png",
+              "image": "https://assets.decocache.com/frigidaire-pr/261f2ad7-23cf-4ff2-9495-b1be1500990e/Banner-Lavado-Frigidaire-movil.jpg",
               "width": 400,
               "height": 400
             },
